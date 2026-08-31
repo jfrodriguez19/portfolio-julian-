@@ -1,14 +1,6 @@
 ## 📸 Vista del Dashboard
 
 ![Dashboard Comercial](PORTADA.png)
-## 📸 Vistas adicionales
-
-![Página 1](PAGINA 1.png)
-
-![Página 2](PAGINA 2.png)
-
-
-
 
 # portfolio-julian-
 Portafolio de proyectos de análisis de datos, reporting, dashboards y gestión comercial.
