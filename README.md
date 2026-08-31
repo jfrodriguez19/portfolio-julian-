@@ -1,6 +1,12 @@
 ## 📸 Vista del Dashboard
 
 ![Dashboard Comercial](PORTADA.png)
+## 📸 Vistas adicionales
+
+![Página 1](PÁGINA 1.png)
+
+![Página 2](PÁGINA 2.png)
+
 
 
 
