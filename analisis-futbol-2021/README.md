@@ -1,35 +1,59 @@
-Análisis Deportivo de Ligas 2021
-Este proyecto corresponde a un análisis estadístico completo de la temporada 2021, desarrollado en Excel como entrega final académica. El objetivo fue evaluar el rendimiento de equipos y jugadores mediante métricas clave, visualizaciones y herramientas avanzadas de análisis de datos.
+⚽ Análisis Deportivo de Ligas 2021
+![Portada del Proyecto](PORTADA.JPG)
 
-![Portada del Proyecto](PORTADA.png)
 
-⚽ Objetivos del análisis
-Identificar patrones de rendimiento por equipo y jugador.
+🎯 Objetivo  
+Evaluar el rendimiento de equipos y jugadores durante la temporada 2021 mediante métricas clave, análisis estadístico y visualizaciones en Excel.
 
-Evaluar métricas clave: goles, asistencias, minutos jugados, eficacia ofensiva y defensiva.
+📁 Conjunto de datos  
+Incluye información de:
 
-Construir indicadores que permitan comparar desempeño entre equipos.
+Partidos disputados
 
-Presentar conclusiones basadas en datos para respaldar decisiones deportivas.
+Goles y asistencias
 
-📊 Herramientas y técnicas utilizadas
-Tablas dinámicas para segmentar información por equipo, jugador y fecha.
+Minutos jugados
 
-Gráficos dinámicos para visualizar tendencias de rendimiento.
+Rendimiento ofensivo y defensivo
 
-Fórmulas avanzadas: BUSCARV, SUMAR.SI.CONJUNTO, PROMEDIO.SI, funciones lógicas.
+Comparativas entre equipos y jugadores
 
-Segmentadores y filtros para análisis interactivo.
+Los datos fueron organizados y normalizados para facilitar el análisis.
 
-Dashboard final con KPIs principales de la temporada.
+📊 Indicadores clave (KPI)
 
-📈 Indicadores principales del proyecto
-Goles por partido y por jugador.
+Goles por partido
 
-Eficacia ofensiva (goles / remates).
+Eficacia ofensiva (goles / remates)
 
-Eficacia defensiva (goles recibidos / partidos).
+Eficacia defensiva (goles recibidos / partidos)
 
-Participación en jugadas de gol.
+Participación en jugadas de gol
 
-Comparativa entre equipos según rendimiento acumulado.
+Comparativa de rendimiento acumulado por equipo
+
+Tendencias de desempeño a lo largo de la temporada
+
+🔍 Insights relevantes del análisis
+
+Identificación de jugadores con mayor impacto ofensivo.
+
+Equipos con mejor consistencia defensiva.
+
+Variaciones de rendimiento entre meses y fases del torneo.
+
+Detección de patrones que explican victorias, derrotas y rachas.
+
+🛠️ Herramientas utilizadas
+
+Excel avanzado
+
+Tablas dinámicas
+
+Gráficos dinámicos
+
+Segmentadores y filtros
+
+Fórmulas avanzadas (BUSCARV, SUMAR.SI.CONJUNTO, PROMEDIO.SI, funciones lógicas)
+
+Dashboard final con KPIs
