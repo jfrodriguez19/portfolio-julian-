@@ -1,6 +1,6 @@
 # 📊 Segmentación Comercial de Clientes
 
-![Portada del Proyecto](PORTADA.png)
+![Portada del Proyecto](PORTADACORREDORES.png)
 
 🎯 **Objetivo**  
 Analizar la distribución de clientes por zona geográfica y corredor comercial, identificando oportunidades, concentración de ventas y asignación de vendedores.
