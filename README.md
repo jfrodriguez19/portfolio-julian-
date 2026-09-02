@@ -50,6 +50,19 @@ Incluye:
 
 🔗 Ver proyecto: /sistema-comercial-excel
 
+📈 **Análisis Deportivo de Ligas 2021**  
+Análisis estadístico en Excel sobre el rendimiento de equipos y jugadores durante la temporada 2021.
+
+Incluye:
+- KPIs deportivos (goles, asistencias, eficacia ofensiva/defensiva)  
+- Comparativas entre equipos y jugadores  
+- Tendencias de rendimiento por fecha  
+- Dashboard final con métricas clave  
+- Segmentación por equipo, jugador y período  
+
+🔗 Ver proyecto: /analisis-futbol-2021
+
+
 
 
 ## 🛠️ Tecnologías y herramientas
