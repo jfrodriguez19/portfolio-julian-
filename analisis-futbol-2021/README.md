@@ -1,7 +1,7 @@
 Análisis Deportivo de Ligas 2021
 Este proyecto corresponde a un análisis estadístico completo de la temporada 2021, desarrollado en Excel como entrega final académica. El objetivo fue evaluar el rendimiento de equipos y jugadores mediante métricas clave, visualizaciones y herramientas avanzadas de análisis de datos.
 
-![Portada del Proyecto](URL-DE-TU-IMAGEN-AQUÍ)
+![Portada del Proyecto](PORTADA.png)
 
 ⚽ Objetivos del análisis
 Identificar patrones de rendimiento por equipo y jugador.
