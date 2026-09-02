@@ -1,5 +1,7 @@
 # Sistema Comercial Automatizado en Excel
 
+![Sistema Comercial](PORTADA.png)
+
 ## 🎯 Objetivo
 Herramienta diseñada para automatizar cálculos comerciales clave:  
 - financiación propia con recargos según cantidad de cuotas,  
