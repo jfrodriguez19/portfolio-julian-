@@ -1,5 +1,6 @@
 ⚽ Análisis Deportivo de Ligas 2021
-![Portada del Proyecto](PORTADA.JPG)
+
+![Portada del Proyecto](URL-DE-TU-IMAGEN-AQUÍ)
 
 
 🎯 Objetivo  
