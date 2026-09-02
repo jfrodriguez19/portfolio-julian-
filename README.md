@@ -38,6 +38,19 @@ Incluye:
 
 🔗 Ver proyecto: /ventas-mensual-comercio
 
+### 🧮 Sistema Comercial Automatizado en Excel
+Herramienta integral para gestionar precios y financiación.
+
+Incluye:
+- Financiación propia con recargos según cantidad de cuotas  
+- Simulación de tarjeta de crédito  
+- Lista de precios con márgenes: mayorista +15%, contado +25%, PVP +30%  
+- Cálculos automáticos con IVA  
+- Ideal para cotizaciones rápidas y gestión comercial
+
+🔗 Ver proyecto: /sistema-comercial-excel
+
+
 
 ## 🛠️ Tecnologías y herramientas
 - **Power BI** (DAX, modelado, visualizaciones)
