@@ -1,6 +1,6 @@
 # Dashboard de Ventas Mensual – Comercio (Mayo 2026)
 
-![Dashboard Ventas Mayo](PORTADA.png)
+![Dashboard Ventas Mayo](ventas-mensual-comercio/portada.png)
 
 ## 🎯 Objetivo
 Desarrollar un dashboard interactivo en Power BI para el seguimiento de indicadores comerciales del mes de mayo 2026.  
