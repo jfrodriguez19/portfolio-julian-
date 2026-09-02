@@ -62,6 +62,19 @@ Incluye:
 
 🔗 Ver proyecto: /analisis-futbol-2021
 
+📊 **Segmentación Comercial de Clientes**  
+Análisis completo de clientes segmentados por provincia, localidad, partido y corredor.  
+Incluye métricas de distribución, zonas de mayor concentración y oportunidades comerciales.
+
+Incluye:
+- 212 clientes totales  
+- Distribución por provincia, localidad y partido  
+- Ranking por corredor/vendedor  
+- Identificación de zonas críticas y potenciales  
+- Segmentación por tipo de cliente y condición fiscal  
+
+🔗 Ver proyecto: /segmentacion-comercial-clientes
+
 
 
 
