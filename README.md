@@ -3,8 +3,6 @@
 
 Este portfolio reúne proyectos de análisis comercial, dashboards de gestión y herramientas operativas desarrolladas en Excel, Power BI y SQL.
 
----
-
 ## 🚀 Proyectos destacados
 
 ### 🔹 Dashboard Comercial – Análisis de Ventas y Desempeño  
@@ -15,26 +13,31 @@ Incluye:
 - Indicadores de desempeño  
 - Segmentación por canal y región  
 
-📁 Archivos:  
-- `Power BI de gestión base.pbix`  
-- `PÁGINA 1.png`  
-- `PÁGINA 2.png`  
-- `PORTADA.png`
+### 📊 Dashboard Comercial – Análisis de Ventas y Desempeño
+Panel interactivo en Power BI para analizar ventas, rentabilidad, desempeño por canal y KPIs comerciales.
 
----
-
-### 🔹 Base General Comercial  
-Modelo en Excel para gestión de ventas, stock y seguimiento de indicadores operativos.  
 Incluye:
-- Tablas dinámicas  
-- Métricas comerciales  
-- Panel de control  
-- Limpieza y normalización de datos  
+- Ventas por período
+- Rentabilidad por línea
+- KPIs comerciales
+- Segmentación por canal y región
+- Top ventas por marca y producto
 
-📁 Archivo:  
-- `Base_General_Comercial.xlsx`
+🔗 Ver proyecto: /dashboard-comercial
 
----
+### 📈 Dashboard Ventas Mensual – Comercio (Mayo 2026)
+Dashboard interactivo en Power BI para analizar ventas netas, unidades facturadas, desempeño por vendedor, marcas y productos del mes de mayo 2026.
+
+Incluye:
+- Ventas netas (22,26 mill.)
+- Unidades facturadas (138)
+- Venta promedio por vendedor (7,42 mill.)
+- Top ventas por marca (RCA, CANNON, ESCORIAL…)
+- Top ventas por producto (SMART TV RCA, TCL, ESCORIAL…)
+- Segmentación por vendedor y marca
+
+🔗 Ver proyecto: /ventas-mensual-comercio
+
 
 ## 🛠️ Tecnologías y herramientas
 - **Power BI** (DAX, modelado, visualizaciones)
