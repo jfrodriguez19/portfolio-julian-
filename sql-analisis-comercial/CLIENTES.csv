@@ -1,0 +1,601 @@
+﻿ClienteID;Cliente;Segmento;Provincia;FechaAlta;EstadoCliente;Email;Telefono
+CLI0001;Cliente 0001;Minorista;Santa Fe;27/12/2021;Activo;cliente0001@mail.com;+54 11 6802-5330
+CLI0002;Cliente 0002;Minorista;Mendoza;23/10/2020;Activo;cliente0002@mail.com;+54 11 4237-3548
+CLI0003;Cliente 0003;Minorista;Buenos Aires;21/06/2020;Activo;cliente0003@mail.com;+54 11 5384-9801
+CLI0004;Cliente 0004;Empresa;Buenos Aires;30/06/2021;Activo;cliente0004@mail.com;+54 11 5567-8501
+CLI0005;Cliente 0005;Mayorista;Córdoba;31/03/2021;Activo;cliente0005@mail.com;+54 11 6877-9283
+CLI0006;Cliente 0006;Empresa;Entre Ríos;16/11/2020;Activo;cliente0006@mail.com;+54 11 5738-5024
+CLI0007;Cliente 0007;Minorista;Santa Fe;23/10/2024;Activo;cliente0007@mail.com;+54 11 5309-9817
+CLI0008;Cliente 0008;Empresa;Buenos Aires;14/11/2024;Activo;cliente0008@mail.com;+54 11 5515-1571
+CLI0009;Cliente 0009;Mayorista;Neuquén;27/08/2021;Inactivo;cliente0009@mail.com;+54 11 5536-1328
+CLI0010;Cliente 0010;Minorista;Buenos Aires;09/06/2022;Activo;cliente0010@mail.com;+54 11 5745-5730
+CLI0011;Cliente 0011;Minorista;Santa Fe;28/03/2021;Activo;cliente0011@mail.com;+54 11 5145-2546
+CLI0012;Cliente 0012;Empresa;Mendoza;18/05/2023;Activo;cliente0012@mail.com;+54 11 5906-5823
+CLI0013;Cliente 0013;Minorista;Buenos Aires;01/12/2020;Activo;cliente0013@mail.com;+54 11 4245-5939
+CLI0014;Cliente 0014;Minorista;Buenos Aires;29/01/2020;Activo;cliente0014@mail.com;+54 11 6620-3007
+CLI0015;Cliente 0015;Empresa;Entre Ríos;02/02/2024;Activo;cliente0015@mail.com;+54 11 4795-5734
+CLI0016;Cliente 0016;Empresa;CABA;03/12/2022;Activo;cliente0016@mail.com;+54 11 5502-6755
+CLI0017;Cliente 0017;Profesional;Mendoza;08/06/2024;Activo;cliente0017@mail.com;+54 11 6533-8485
+CLI0018;Cliente 0018;Mayorista;Entre Ríos;09/06/2020;Activo;cliente0018@mail.com;+54 11 6742-6036
+CLI0019;Cliente 0019;Minorista;Buenos Aires;29/08/2024;Activo;cliente0019@mail.com;+54 11 4564-6064
+CLI0020;Cliente 0020;Minorista;Buenos Aires;29/10/2023;Activo;cliente0020@mail.com;+54 11 5989-5573
+CLI0021;Cliente 0021;Empresa;CABA;13/11/2020;Activo;cliente0021@mail.com;+54 11 6242-8176
+CLI0022;Cliente 0022;Minorista;Buenos Aires;25/10/2021;Inactivo;cliente0022@mail.com;+54 11 6321-4806
+CLI0023;Cliente 0023;Empresa;Buenos Aires;20/09/2024;Activo;cliente0023@mail.com;+54 11 4190-7510
+CLI0024;Cliente 0024;Minorista;Buenos Aires;24/04/2023;Inactivo;cliente0024@mail.com;+54 11 6338-2841
+CLI0025;Cliente 0025;Minorista;Buenos Aires;18/08/2020;Activo;cliente0025@mail.com;+54 11 5118-1926
+CLI0026;Cliente 0026;Minorista;Córdoba;29/01/2022;Activo;cliente0026@mail.com;+54 11 5614-6807
+CLI0027;Cliente 0027;Minorista;CABA;04/09/2022;Activo;cliente0027@mail.com;+54 11 4675-7157
+CLI0028;Cliente 0028;Minorista;Entre Ríos;17/09/2022;Activo;cliente0028@mail.com;+54 11 4608-7903
+CLI0029;Cliente 0029;Minorista;CABA;27/12/2022;Activo;cliente0029@mail.com;+54 11 6115-6272
+CLI0030;Cliente 0030;Mayorista;Buenos Aires;10/04/2023;Activo;cliente0030@mail.com;+54 11 5437-9507
+CLI0031;Cliente 0031;Empresa;Buenos Aires;06/09/2021;Activo;cliente0031@mail.com;+54 11 5650-1163
+CLI0032;Cliente 0032;Mayorista;Buenos Aires;04/07/2020;Inactivo;cliente0032@mail.com;+54 11 4451-4492
+CLI0033;Cliente 0033;Minorista;Buenos Aires;14/06/2024;Inactivo;cliente0033@mail.com;+54 11 5194-3517
+CLI0034;Cliente 0034;Mayorista;Santa Fe;15/01/2022;Activo;cliente0034@mail.com;+54 11 4083-9429
+CLI0035;Cliente 0035;Minorista;Buenos Aires;11/09/2022;Activo;cliente0035@mail.com;+54 11 6796-7411
+CLI0036;Cliente 0036;Minorista;Entre Ríos;15/07/2021;Activo;cliente0036@mail.com;+54 11 4211-3497
+CLI0037;Cliente 0037;Minorista;Buenos Aires;16/07/2023;Activo;cliente0037@mail.com;+54 11 4263-5264
+CLI0038;Cliente 0038;Minorista;Santa Fe;08/10/2023;Activo;cliente0038@mail.com;+54 11 4857-5563
+CLI0039;Cliente 0039;Minorista;Buenos Aires;13/08/2021;Activo;cliente0039@mail.com;+54 11 4107-3564
+CLI0040;Cliente 0040;Empresa;Córdoba;05/01/2023;Activo;cliente0040@mail.com;+54 11 6248-6483
+CLI0041;Cliente 0041;Minorista;Buenos Aires;03/10/2023;Activo;cliente0041@mail.com;+54 11 4174-4783
+CLI0042;Cliente 0042;Minorista;CABA;30/12/2022;Activo;cliente0042@mail.com;+54 11 6664-5552
+CLI0043;Cliente 0043;Profesional;Buenos Aires;15/09/2020;Activo;cliente0043@mail.com;+54 11 5817-5404
+CLI0044;Cliente 0044;Minorista;Entre Ríos;22/06/2024;Activo;cliente0044@mail.com;+54 11 4663-8172
+CLI0045;Cliente 0045;Minorista;CABA;15/11/2021;Activo;cliente0045@mail.com;+54 11 5508-9413
+CLI0046;Cliente 0046;Minorista;Mendoza;19/01/2022;Activo;cliente0046@mail.com;+54 11 5120-3310
+CLI0047;Cliente 0047;Minorista;Córdoba;10/07/2020;Activo;cliente0047@mail.com;+54 11 4961-8554
+CLI0048;Cliente 0048;Minorista;Buenos Aires;24/11/2022;Activo;cliente0048@mail.com;+54 11 5693-6450
+CLI0049;Cliente 0049;Profesional;Buenos Aires;19/07/2023;Activo;cliente0049@mail.com;+54 11 6709-5000
+CLI0050;Cliente 0050;Minorista;CABA;14/03/2021;Activo;cliente0050@mail.com;+54 11 4494-7182
+CLI0051;Cliente 0051;Minorista;CABA;05/02/2021;Activo;cliente0051@mail.com;+54 11 6331-3953
+CLI0052;Cliente 0052;Minorista;Buenos Aires;05/04/2024;Activo;cliente0052@mail.com;+54 11 6200-9720
+CLI0053;Cliente 0053;Profesional;Córdoba;30/07/2023;Activo;cliente0053@mail.com;+54 11 5790-5772
+CLI0054;Cliente 0054;Minorista;CABA;19/11/2020;Activo;cliente0054@mail.com;+54 11 4642-8633
+CLI0055;Cliente 0055;Minorista;Buenos Aires;25/09/2024;Activo;cliente0055@mail.com;+54 11 5452-8041
+CLI0056;Cliente 0056;Minorista;CABA;08/03/2022;Activo;cliente0056@mail.com;+54 11 6457-3460
+CLI0057;Cliente 0057;Minorista;Buenos Aires;31/08/2024;Activo;cliente0057@mail.com;+54 11 6303-8026
+CLI0058;Cliente 0058;Empresa;Mendoza;31/03/2021;Activo;cliente0058@mail.com;+54 11 4619-6714
+CLI0059;Cliente 0059;Mayorista;CABA;25/11/2021;Activo;cliente0059@mail.com;+54 11 5638-3379
+CLI0060;Cliente 0060;Minorista;Buenos Aires;02/12/2022;Activo;cliente0060@mail.com;+54 11 6091-9430
+CLI0061;Cliente 0061;Empresa;CABA;01/06/2024;Activo;cliente0061@mail.com;+54 11 4421-3484
+CLI0062;Cliente 0062;Minorista;Buenos Aires;06/08/2020;Activo;cliente0062@mail.com;+54 11 6043-9924
+CLI0063;Cliente 0063;Mayorista;CABA;25/05/2022;Activo;cliente0063@mail.com;+54 11 4003-1865
+CLI0064;Cliente 0064;Minorista;Córdoba;26/01/2021;Activo;cliente0064@mail.com;+54 11 4847-5481
+CLI0065;Cliente 0065;Empresa;CABA;19/06/2020;Activo;cliente0065@mail.com;+54 11 6414-3489
+CLI0066;Cliente 0066;Minorista;CABA;12/10/2022;Inactivo;cliente0066@mail.com;+54 11 6612-7316
+CLI0067;Cliente 0067;Minorista;Buenos Aires;17/03/2023;Activo;cliente0067@mail.com;+54 11 4921-7437
+CLI0068;Cliente 0068;Empresa;Tucumán;07/10/2020;Activo;cliente0068@mail.com;+54 11 5719-9409
+CLI0069;Cliente 0069;Profesional;Buenos Aires;21/11/2022;Activo;cliente0069@mail.com;+54 11 4414-9546
+CLI0070;Cliente 0070;Minorista;Entre Ríos;03/05/2021;Activo;cliente0070@mail.com;+54 11 4109-5334
+CLI0071;Cliente 0071;Empresa;Santa Fe;22/01/2023;Activo;cliente0071@mail.com;+54 11 6988-4576
+CLI0072;Cliente 0072;Minorista;CABA;18/05/2022;Activo;cliente0072@mail.com;+54 11 4855-6301
+CLI0073;Cliente 0073;Mayorista;Córdoba;07/04/2022;Activo;cliente0073@mail.com;+54 11 6530-1638
+CLI0074;Cliente 0074;Minorista;Buenos Aires;24/03/2024;Activo;cliente0074@mail.com;+54 11 5891-2742
+CLI0075;Cliente 0075;Minorista;Buenos Aires;24/12/2021;Activo;cliente0075@mail.com;+54 11 5574-2952
+CLI0076;Cliente 0076;Minorista;Santa Fe;01/03/2022;Activo;cliente0076@mail.com;+54 11 4633-5962
+CLI0077;Cliente 0077;Minorista;Santa Fe;22/02/2023;Activo;cliente0077@mail.com;+54 11 5834-6684
+CLI0078;Cliente 0078;Minorista;Buenos Aires;15/12/2021;Activo;cliente0078@mail.com;+54 11 6316-2068
+CLI0079;Cliente 0079;Minorista;Córdoba;31/01/2020;Activo;cliente0079@mail.com;+54 11 4201-1438
+CLI0080;Cliente 0080;Minorista;Buenos Aires;23/09/2020;Activo;cliente0080@mail.com;+54 11 6308-9288
+CLI0081;Cliente 0081;Profesional;Buenos Aires;01/11/2024;Activo;cliente0081@mail.com;+54 11 6608-4892
+CLI0082;Cliente 0082;Minorista;Buenos Aires;18/09/2021;Activo;cliente0082@mail.com;+54 11 5445-7317
+CLI0083;Cliente 0083;Minorista;Buenos Aires;27/07/2023;Activo;cliente0083@mail.com;+54 11 4179-8921
+CLI0084;Cliente 0084;Profesional;Santa Fe;13/02/2022;Activo;cliente0084@mail.com;+54 11 6925-9890
+CLI0085;Cliente 0085;Minorista;CABA;10/12/2023;Activo;cliente0085@mail.com;+54 11 5921-2107
+CLI0086;Cliente 0086;Minorista;CABA;01/09/2022;Inactivo;cliente0086@mail.com;+54 11 5579-4961
+CLI0087;Cliente 0087;Minorista;Buenos Aires;23/09/2020;Activo;cliente0087@mail.com;+54 11 4479-9973
+CLI0088;Cliente 0088;Empresa;Córdoba;23/04/2024;Activo;cliente0088@mail.com;+54 11 4171-6524
+CLI0089;Cliente 0089;Minorista;CABA;21/01/2024;Activo;cliente0089@mail.com;+54 11 5490-6293
+CLI0090;Cliente 0090;Minorista;Buenos Aires;16/02/2022;Inactivo;cliente0090@mail.com;+54 11 6601-5989
+CLI0091;Cliente 0091;Minorista;Córdoba;03/11/2024;Activo;cliente0091@mail.com;+54 11 5727-7641
+CLI0092;Cliente 0092;Minorista;Buenos Aires;07/10/2020;Activo;cliente0092@mail.com;+54 11 4441-8310
+CLI0093;Cliente 0093;Minorista;Santa Fe;25/04/2020;Inactivo;cliente0093@mail.com;+54 11 5891-3964
+CLI0094;Cliente 0094;Profesional;Buenos Aires;14/02/2021;Activo;cliente0094@mail.com;+54 11 4038-5159
+CLI0095;Cliente 0095;Empresa;Buenos Aires;15/10/2020;Activo;cliente0095@mail.com;+54 11 4213-8243
+CLI0096;Cliente 0096;Mayorista;Buenos Aires;14/08/2021;Inactivo;cliente0096@mail.com;
+CLI0097;Cliente 0097;Minorista;Buenos Aires;07/03/2021;Activo;;+54 11 6725-4623
+CLI0098;Cliente 0098;Profesional;Buenos Aires;06/02/2021;Activo;cliente0098@mail.com;+54 11 6009-9915
+CLI0099;Cliente 0099;Empresa;Buenos Aires;26/08/2020;Activo;cliente0099@mail.com;+54 11 6981-4341
+CLI0100;Cliente 0100;Minorista;Buenos Aires;09/07/2023;Activo;cliente0100@mail.com;+54 11 5105-6925
+CLI0101;Cliente 0101;Mayorista;Santa Fe;08/09/2024;Inactivo;cliente0101@mail.com;+54 11 4678-1650
+CLI0102;Cliente 0102;Minorista;Neuquén;05/03/2020;Activo;cliente0102@mail.com;+54 11 5039-9971
+CLI0103;Cliente 0103;Minorista;Buenos Aires;29/06/2023;Activo;cliente0103@mail.com;+54 11 4856-8456
+CLI0104;Cliente 0104;Minorista;Santa Fe;02/08/2022;Activo;cliente0104@mail.com;+54 11 5730-3893
+CLI0105;Cliente 0105;Minorista;Buenos Aires;22/09/2021;Inactivo;cliente0105@mail.com;+54 11 4655-8320
+CLI0106;Cliente 0106;Mayorista;Córdoba;18/05/2024;Activo;cliente0106@mail.com;+54 11 6551-6875
+CLI0107;Cliente 0107;Mayorista;Neuquén;06/08/2022;Activo;cliente0107@mail.com;+54 11 6494-1438
+CLI0108;Cliente 0108;Mayorista;CABA;17/01/2021;Activo;cliente0108@mail.com;+54 11 4267-7597
+CLI0109;Cliente 0109;Minorista;Buenos Aires;18/10/2020;Activo;cliente0109@mail.com;+54 11 6346-2016
+CLI0110;Cliente 0110;Empresa;Córdoba;27/11/2020;Activo;cliente0110@mail.com;+54 11 4510-5472
+CLI0111;Cliente 0111;Empresa;Buenos Aires;27/03/2021;Activo;cliente0111@mail.com;+54 11 5832-6089
+CLI0112;Cliente 0112;Minorista;Buenos Aires;17/06/2022;Activo;cliente0112@mail.com;+54 11 5677-1709
+CLI0113;Cliente 0113;Empresa;Córdoba;13/01/2021;Activo;cliente0113@mail.com;+54 11 4955-9223
+CLI0114;Cliente 0114;Profesional;Córdoba;17/07/2021;Inactivo;cliente0114@mail.com;+54 11 5997-5359
+CLI0115;Cliente 0115;Mayorista;Santa Fe;08/07/2021;Activo;cliente0115@mail.com;+54 11 5719-7916
+CLI0116;Cliente 0116;Mayorista;CABA;09/02/2020;Activo;cliente0116@mail.com;+54 11 5001-9416
+CLI0117;Cliente 0117;Minorista;Buenos Aires;14/08/2024;Activo;cliente0117@mail.com;+54 11 5148-5060
+CLI0118;Cliente 0118;Mayorista;Buenos Aires;17/05/2023;Activo;cliente0118@mail.com;+54 11 6939-9048
+CLI0119;Cliente 0119;Mayorista;Córdoba;25/08/2020;Inactivo;cliente0119@mail.com;+54 11 4059-5624
+CLI0120;Cliente 0120;Minorista;Córdoba;29/09/2022;Activo;cliente0120@mail.com;+54 11 4536-4073
+CLI0121;Cliente 0121;Profesional;CABA;14/07/2020;Activo;cliente0121@mail.com;+54 11 5295-8520
+CLI0122;Cliente 0122;Mayorista;Santa Fe;22/12/2020;Activo;cliente0122@mail.com;+54 11 4495-8648
+CLI0123;Cliente 0123;Minorista;Entre Ríos;08/12/2020;Activo;cliente0123@mail.com;+54 11 6334-5475
+CLI0124;Cliente 0124;Mayorista;Mendoza;13/02/2023;Activo;cliente0124@mail.com;+54 11 4568-3538
+CLI0125;Cliente 0125;Minorista;Tucumán;13/11/2022;Activo;cliente0125@mail.com;+54 11 6071-9706
+CLI0126;Cliente 0126;Minorista;CABA;14/12/2021;Activo;cliente0126@mail.com;+54 11 5884-9604
+CLI0127;Cliente 0127;Profesional;Neuquén;03/11/2023;Activo;cliente0127@mail.com;+54 11 5627-8454
+CLI0128;Cliente 0128;Empresa;CABA;28/11/2022;Activo;cliente0128@mail.com;+54 11 6223-8699
+CLI0129;Cliente 0129;Minorista;Buenos Aires;22/02/2024;Activo;cliente0129@mail.com;+54 11 4493-1557
+CLI0130;Cliente 0130;Minorista;Buenos Aires;06/07/2024;Activo;cliente0130@mail.com;+54 11 4019-6054
+CLI0131;Cliente 0131;Minorista;Buenos Aires;30/10/2023;Activo;cliente0131@mail.com;+54 11 6702-4898
+CLI0132;Cliente 0132;Profesional;Mendoza;24/08/2023;Activo;cliente0132@mail.com;+54 11 6931-4243
+CLI0133;Cliente 0133;Mayorista;Buenos Aires;13/07/2021;Activo;cliente0133@mail.com;+54 11 6466-9988
+CLI0134;Cliente 0134;Minorista;Buenos Aires;12/06/2021;Activo;cliente0134@mail.com;+54 11 5971-2466
+CLI0135;Cliente 0135;Minorista;Santa Fe;01/09/2022;Inactivo;cliente0135@mail.com;+54 11 5387-4756
+CLI0136;Cliente 0136;Minorista;Entre Ríos;31/01/2021;Activo;cliente0136@mail.com;+54 11 5026-1378
+CLI0137;Cliente 0137;Profesional;Buenos Aires;03/06/2020;Activo;cliente0137@mail.com;+54 11 6388-3674
+CLI0138;Cliente 0138;Minorista;Buenos Aires;19/03/2020;Activo;cliente0138@mail.com;+54 11 4494-3437
+CLI0139;Cliente 0139;Minorista;Neuquén;13/06/2023;Activo;cliente0139@mail.com;+54 11 6181-6026
+CLI0140;Cliente 0140;Mayorista;Buenos Aires;13/11/2024;Activo;;+54 11 6900-4382
+CLI0141;Cliente 0141;Minorista;Buenos Aires;25/11/2024;Activo;cliente0141@mail.com;+54 11 6122-2307
+CLI0142;Cliente 0142;Minorista;Buenos Aires;27/05/2023;Activo;cliente0142@mail.com;+54 11 4736-4063
+CLI0143;Cliente 0143;Minorista;Buenos Aires;18/10/2020;Activo;cliente0143@mail.com;+54 11 6356-7269
+CLI0144;Cliente 0144;Mayorista;Tucumán;19/11/2022;Activo;cliente0144@mail.com;+54 11 4399-6282
+CLI0145;Cliente 0145;Minorista;Buenos Aires;12/08/2022;Activo;cliente0145@mail.com;+54 11 6978-1057
+CLI0146;Cliente 0146;Mayorista;Buenos Aires;17/08/2020;Inactivo;cliente0146@mail.com;+54 11 4265-8045
+CLI0147;Cliente 0147;Minorista;CABA;05/07/2021;Activo;cliente0147@mail.com;+54 11 4370-4888
+CLI0148;Cliente 0148;Minorista;Córdoba;11/10/2022;Activo;cliente0148@mail.com;+54 11 4415-1556
+CLI0149;Cliente 0149;Profesional;Buenos Aires;03/05/2023;Activo;cliente0149@mail.com;+54 11 6010-1018
+CLI0150;Cliente 0150;Mayorista;Neuquén;28/11/2023;Activo;cliente0150@mail.com;+54 11 4200-9377
+CLI0151;Cliente 0151;Minorista;Buenos Aires;28/11/2024;Activo;cliente0151@mail.com;+54 11 5652-6981
+CLI0152;Cliente 0152;Mayorista;Buenos Aires;22/08/2021;Activo;cliente0152@mail.com;+54 11 4546-2568
+CLI0153;Cliente 0153;Minorista;Entre Ríos;26/02/2020;Activo;cliente0153@mail.com;+54 11 6007-1652
+CLI0154;Cliente 0154;Minorista;Buenos Aires;11/11/2020;Activo;;+54 11 4928-3732
+CLI0155;Cliente 0155;Minorista;CABA;28/05/2024;Activo;cliente0155@mail.com;+54 11 6372-1481
+CLI0156;Cliente 0156;Minorista;CABA;19/04/2021;Activo;cliente0156@mail.com;+54 11 4601-6410
+CLI0157;Cliente 0157;Minorista;Buenos Aires;29/11/2023;Activo;cliente0157@mail.com;+54 11 6089-8239
+CLI0158;Cliente 0158;Minorista;Buenos Aires;10/07/2023;Activo;cliente0158@mail.com;+54 11 5430-5140
+CLI0159;Cliente 0159;Mayorista;Entre Ríos;28/10/2023;Activo;cliente0159@mail.com;+54 11 4933-2899
+CLI0160;Cliente 0160;Empresa;Buenos Aires;04/01/2021;Activo;cliente0160@mail.com;+54 11 6522-1799
+CLI0161;Cliente 0161;Minorista;Santa Fe;23/06/2020;Activo;cliente0161@mail.com;
+CLI0162;Cliente 0162;Empresa;Buenos Aires;05/12/2022;Activo;cliente0162@mail.com;+54 11 4875-8935
+CLI0163;Cliente 0163;Minorista;Mendoza;17/02/2021;Activo;cliente0163@mail.com;
+CLI0164;Cliente 0164;Profesional;CABA;06/06/2022;Inactivo;cliente0164@mail.com;+54 11 6325-8389
+CLI0165;Cliente 0165;Empresa;Neuquén;06/01/2021;Activo;cliente0165@mail.com;+54 11 5245-3756
+CLI0166;Cliente 0166;Minorista;Buenos Aires;30/04/2020;Activo;cliente0166@mail.com;+54 11 5998-3001
+CLI0167;Cliente 0167;Minorista;Córdoba;31/01/2020;Activo;cliente0167@mail.com;+54 11 5449-1508
+CLI0168;Cliente 0168;Minorista;Buenos Aires;08/03/2022;Inactivo;cliente0168@mail.com;+54 11 6172-8257
+CLI0169;Cliente 0169;Empresa;Buenos Aires;30/05/2022;Inactivo;cliente0169@mail.com;+54 11 5943-8894
+CLI0170;Cliente 0170;Mayorista;Buenos Aires;02/07/2021;Activo;cliente0170@mail.com;+54 11 6171-1886
+CLI0171;Cliente 0171;Profesional;Buenos Aires;25/10/2020;Activo;cliente0171@mail.com;+54 11 6999-6050
+CLI0172;Cliente 0172;Profesional;Buenos Aires;02/05/2020;Activo;cliente0172@mail.com;+54 11 6189-9027
+CLI0173;Cliente 0173;Mayorista;Buenos Aires;09/09/2024;Activo;cliente0173@mail.com;+54 11 5439-6280
+CLI0174;Cliente 0174;Minorista;Buenos Aires;06/05/2021;Activo;cliente0174@mail.com;+54 11 6597-4770
+CLI0175;Cliente 0175;Empresa;Santa Fe;25/06/2023;Inactivo;cliente0175@mail.com;+54 11 5682-5239
+CLI0176;Cliente 0176;Minorista;Buenos Aires;01/11/2024;Activo;cliente0176@mail.com;+54 11 5781-5050
+CLI0177;Cliente 0177;Minorista;CABA;17/11/2021;Inactivo;cliente0177@mail.com;+54 11 6358-9496
+CLI0178;Cliente 0178;Minorista;CABA;03/09/2022;Activo;cliente0178@mail.com;+54 11 5110-1449
+CLI0179;Cliente 0179;Minorista;Buenos Aires;17/07/2024;Activo;cliente0179@mail.com;+54 11 4869-6273
+CLI0180;Cliente 0180;Minorista;Mendoza;29/10/2022;Activo;cliente0180@mail.com;+54 11 4033-6439
+CLI0181;Cliente 0181;Empresa;Buenos Aires;24/11/2022;Inactivo;cliente0181@mail.com;+54 11 5869-4822
+CLI0182;Cliente 0182;Empresa;CABA;01/08/2022;Inactivo;cliente0182@mail.com;+54 11 5580-7613
+CLI0183;Cliente 0183;Mayorista;Buenos Aires;07/09/2023;Activo;cliente0183@mail.com;+54 11 5259-9876
+CLI0184;Cliente 0184;Profesional;Neuquén;25/06/2023;Inactivo;cliente0184@mail.com;+54 11 6754-8829
+CLI0185;Cliente 0185;Minorista;Buenos Aires;23/10/2023;Activo;cliente0185@mail.com;+54 11 5010-3576
+CLI0186;Cliente 0186;Profesional;Buenos Aires;15/11/2022;Activo;;+54 11 6640-2288
+CLI0187;Cliente 0187;Minorista;Buenos Aires;08/05/2020;Activo;cliente0187@mail.com;+54 11 6267-2727
+CLI0188;Cliente 0188;Minorista;Buenos Aires;27/01/2024;Activo;cliente0188@mail.com;+54 11 6871-1000
+CLI0189;Cliente 0189;Minorista;Mendoza;09/04/2020;Activo;cliente0189@mail.com;+54 11 5455-1261
+CLI0190;Cliente 0190;Profesional;Buenos Aires;19/08/2022;Activo;cliente0190@mail.com;+54 11 5413-6277
+CLI0191;Cliente 0191;Minorista;Santa Fe;24/08/2023;Activo;cliente0191@mail.com;+54 11 4156-6784
+CLI0192;Cliente 0192;Empresa;Santa Fe;06/02/2024;Activo;cliente0192@mail.com;+54 11 6348-6679
+CLI0193;Cliente 0193;Minorista;Buenos Aires;13/08/2022;Activo;cliente0193@mail.com;+54 11 4639-6746
+CLI0194;Cliente 0194;Minorista;Buenos Aires;25/12/2020;Activo;cliente0194@mail.com;+54 11 5575-3046
+CLI0195;Cliente 0195;Minorista;Santa Fe;13/09/2020;Inactivo;cliente0195@mail.com;+54 11 4222-9166
+CLI0196;Cliente 0196;Minorista;Entre Ríos;01/08/2022;Inactivo;cliente0196@mail.com;+54 11 6402-8576
+CLI0197;Cliente 0197;Profesional;Entre Ríos;12/12/2020;Activo;cliente0197@mail.com;+54 11 6618-3551
+CLI0198;Cliente 0198;Minorista;CABA;16/05/2020;Activo;cliente0198@mail.com;+54 11 4244-9857
+CLI0199;Cliente 0199;Empresa;Córdoba;07/12/2020;Activo;;+54 11 5249-9647
+CLI0200;Cliente 0200;Profesional;Buenos Aires;20/05/2020;Activo;cliente0200@mail.com;+54 11 4310-3620
+CLI0201;Cliente 0201;Mayorista;Buenos Aires;15/07/2024;Inactivo;cliente0201@mail.com;+54 11 4808-4259
+CLI0202;Cliente 0202;Minorista;CABA;17/02/2022;Activo;cliente0202@mail.com;+54 11 5714-7381
+CLI0203;Cliente 0203;Mayorista;Entre Ríos;23/02/2023;Activo;cliente0203@mail.com;+54 11 6114-2557
+CLI0204;Cliente 0204;Empresa;Mendoza;21/03/2021;Activo;cliente0204@mail.com;+54 11 6558-8777
+CLI0205;Cliente 0205;Minorista;Buenos Aires;25/02/2020;Activo;;+54 11 4566-1188
+CLI0206;Cliente 0206;Minorista;Santa Fe;30/08/2024;Activo;cliente0206@mail.com;+54 11 5435-5229
+CLI0207;Cliente 0207;Empresa;CABA;22/10/2023;Inactivo;cliente0207@mail.com;+54 11 4203-9797
+CLI0208;Cliente 0208;Minorista;CABA;08/03/2020;Activo;cliente0208@mail.com;+54 11 4701-5373
+CLI0209;Cliente 0209;Minorista;Buenos Aires;04/06/2024;Inactivo;cliente0209@mail.com;+54 11 5190-4252
+CLI0210;Cliente 0210;Minorista;Córdoba;20/07/2024;Activo;cliente0210@mail.com;+54 11 5995-5361
+CLI0211;Cliente 0211;Minorista;Córdoba;23/11/2023;Activo;cliente0211@mail.com;+54 11 4750-6773
+CLI0212;Cliente 0212;Minorista;Buenos Aires;05/12/2023;Activo;cliente0212@mail.com;+54 11 5482-5432
+CLI0213;Cliente 0213;Profesional;CABA;07/02/2023;Activo;cliente0213@mail.com;+54 11 6648-4333
+CLI0214;Cliente 0214;Minorista;Buenos Aires;29/01/2021;Activo;cliente0214@mail.com;+54 11 6597-4126
+CLI0215;Cliente 0215;Minorista;Entre Ríos;28/02/2021;Activo;cliente0215@mail.com;+54 11 5820-5034
+CLI0216;Cliente 0216;Minorista;Tucumán;01/04/2024;Activo;cliente0216@mail.com;
+CLI0217;Cliente 0217;Mayorista;Buenos Aires;15/12/2022;Inactivo;cliente0217@mail.com;+54 11 5437-8308
+CLI0218;Cliente 0218;Mayorista;Buenos Aires;11/03/2023;Activo;cliente0218@mail.com;+54 11 4473-4740
+CLI0219;Cliente 0219;Minorista;CABA;23/12/2020;Activo;cliente0219@mail.com;+54 11 6255-5924
+CLI0220;Cliente 0220;Minorista;CABA;13/04/2020;Activo;cliente0220@mail.com;+54 11 6401-3267
+CLI0221;Cliente 0221;Minorista;Buenos Aires;02/06/2024;Activo;cliente0221@mail.com;+54 11 5684-6238
+CLI0222;Cliente 0222;Minorista;CABA;26/07/2020;Activo;cliente0222@mail.com;+54 11 5370-2852
+CLI0223;Cliente 0223;Minorista;Buenos Aires;29/09/2023;Activo;cliente0223@mail.com;+54 11 4626-1136
+CLI0224;Cliente 0224;Minorista;Buenos Aires;07/12/2023;Activo;cliente0224@mail.com;+54 11 6388-3079
+CLI0225;Cliente 0225;Minorista;Buenos Aires;10/03/2022;Activo;cliente0225@mail.com;+54 11 5260-8419
+CLI0226;Cliente 0226;Empresa;Neuquén;20/02/2021;Activo;cliente0226@mail.com;+54 11 6819-6519
+CLI0227;Cliente 0227;Empresa;CABA;04/08/2021;Activo;cliente0227@mail.com;+54 11 5515-2760
+CLI0228;Cliente 0228;Minorista;Santa Fe;20/09/2023;Activo;cliente0228@mail.com;+54 11 5278-1572
+CLI0229;Cliente 0229;Minorista;Santa Fe;28/03/2023;Activo;cliente0229@mail.com;+54 11 6008-7029
+CLI0230;Cliente 0230;Minorista;Santa Fe;02/06/2021;Activo;cliente0230@mail.com;+54 11 5387-2292
+CLI0231;Cliente 0231;Minorista;Buenos Aires;12/06/2023;Activo;cliente0231@mail.com;+54 11 6263-8879
+CLI0232;Cliente 0232;Mayorista;CABA;01/05/2020;Activo;cliente0232@mail.com;+54 11 4954-4131
+CLI0233;Cliente 0233;Empresa;Mendoza;26/10/2023;Activo;cliente0233@mail.com;+54 11 4378-5190
+CLI0234;Cliente 0234;Minorista;CABA;26/07/2021;Activo;cliente0234@mail.com;+54 11 5433-5962
+CLI0235;Cliente 0235;Profesional;CABA;15/04/2023;Activo;cliente0235@mail.com;+54 11 5413-3348
+CLI0236;Cliente 0236;Mayorista;Tucumán;02/10/2021;Activo;cliente0236@mail.com;+54 11 5060-3098
+CLI0237;Cliente 0237;Empresa;Neuquén;04/02/2021;Activo;cliente0237@mail.com;+54 11 4232-1741
+CLI0238;Cliente 0238;Empresa;Buenos Aires;12/11/2022;Activo;cliente0238@mail.com;+54 11 5163-9440
+CLI0239;Cliente 0239;Empresa;Buenos Aires;24/06/2020;Activo;cliente0239@mail.com;+54 11 4690-8823
+CLI0240;Cliente 0240;Empresa;Buenos Aires;12/07/2021;Activo;cliente0240@mail.com;+54 11 5385-5159
+CLI0241;Cliente 0241;Minorista;Buenos Aires;10/06/2021;Activo;cliente0241@mail.com;+54 11 4637-1526
+CLI0242;Cliente 0242;Mayorista;Córdoba;01/12/2021;Activo;cliente0242@mail.com;+54 11 6929-9757
+CLI0243;Cliente 0243;Minorista;Buenos Aires;26/02/2024;Activo;cliente0243@mail.com;+54 11 5433-7681
+CLI0244;Cliente 0244;Mayorista;Buenos Aires;16/08/2022;Activo;cliente0244@mail.com;+54 11 4026-2715
+CLI0245;Cliente 0245;Minorista;CABA;13/07/2023;Activo;cliente0245@mail.com;+54 11 5537-7940
+CLI0246;Cliente 0246;Minorista;CABA;01/03/2022;Activo;cliente0246@mail.com;+54 11 4145-6908
+CLI0247;Cliente 0247;Minorista;Buenos Aires;29/04/2022;Activo;cliente0247@mail.com;+54 11 4143-2025
+CLI0248;Cliente 0248;Empresa;Santa Fe;26/03/2022;Activo;cliente0248@mail.com;+54 11 5573-9648
+CLI0249;Cliente 0249;Mayorista;CABA;02/11/2021;Activo;cliente0249@mail.com;+54 11 4106-8231
+CLI0250;Cliente 0250;Minorista;Entre Ríos;11/08/2023;Activo;cliente0250@mail.com;+54 11 6400-9857
+CLI0251;Cliente 0251;Minorista;Buenos Aires;01/11/2020;Activo;cliente0251@mail.com;+54 11 5353-5914
+CLI0252;Cliente 0252;Empresa;CABA;06/02/2024;Activo;cliente0252@mail.com;+54 11 6359-1039
+CLI0253;Cliente 0253;Profesional;Santa Fe;30/01/2022;Activo;cliente0253@mail.com;+54 11 6263-8269
+CLI0254;Cliente 0254;Mayorista;Buenos Aires;19/11/2021;Activo;cliente0254@mail.com;+54 11 4233-4813
+CLI0255;Cliente 0255;Minorista;Córdoba;08/07/2020;Activo;cliente0255@mail.com;+54 11 4359-2318
+CLI0256;Cliente 0256;Empresa;Buenos Aires;26/01/2021;Activo;cliente0256@mail.com;+54 11 4469-4282
+CLI0257;Cliente 0257;Minorista;Córdoba;11/02/2020;Activo;cliente0257@mail.com;+54 11 6308-6215
+CLI0258;Cliente 0258;Minorista;Buenos Aires;06/07/2024;Activo;cliente0258@mail.com;+54 11 4072-2313
+CLI0259;Cliente 0259;Mayorista;Mendoza;29/04/2020;Activo;cliente0259@mail.com;+54 11 5249-5409
+CLI0260;Cliente 0260;Empresa;CABA;29/06/2023;Activo;cliente0260@mail.com;+54 11 6795-8567
+CLI0261;Cliente 0261;Minorista;CABA;11/08/2020;Activo;cliente0261@mail.com;+54 11 5007-7141
+CLI0262;Cliente 0262;Empresa;CABA;27/05/2021;Activo;cliente0262@mail.com;+54 11 6605-3242
+CLI0263;Cliente 0263;Minorista;Buenos Aires;25/12/2020;Activo;cliente0263@mail.com;+54 11 4334-7154
+CLI0264;Cliente 0264;Mayorista;Buenos Aires;22/11/2022;Activo;cliente0264@mail.com;
+CLI0265;Cliente 0265;Minorista;Buenos Aires;03/08/2023;Activo;cliente0265@mail.com;+54 11 6875-8341
+CLI0266;Cliente 0266;Mayorista;Buenos Aires;14/08/2023;Activo;cliente0266@mail.com;+54 11 5159-3683
+CLI0267;Cliente 0267;Minorista;Buenos Aires;02/07/2020;Activo;cliente0267@mail.com;+54 11 4305-4853
+CLI0268;Cliente 0268;Minorista;Buenos Aires;06/12/2021;Activo;cliente0268@mail.com;+54 11 6863-3333
+CLI0269;Cliente 0269;Minorista;CABA;29/12/2022;Activo;cliente0269@mail.com;+54 11 4601-9556
+CLI0270;Cliente 0270;Empresa;Mendoza;20/10/2024;Activo;cliente0270@mail.com;+54 11 6600-1160
+CLI0271;Cliente 0271;Minorista;Buenos Aires;09/03/2022;Activo;cliente0271@mail.com;+54 11 4961-2755
+CLI0272;Cliente 0272;Mayorista;Córdoba;04/02/2024;Inactivo;cliente0272@mail.com;+54 11 5032-1282
+CLI0273;Cliente 0273;Minorista;CABA;06/10/2024;Activo;cliente0273@mail.com;+54 11 6464-6152
+CLI0274;Cliente 0274;Minorista;Santa Fe;30/09/2020;Activo;cliente0274@mail.com;+54 11 5834-3425
+CLI0275;Cliente 0275;Minorista;CABA;15/06/2021;Inactivo;cliente0275@mail.com;+54 11 4861-7182
+CLI0276;Cliente 0276;Minorista;Buenos Aires;06/09/2022;Activo;cliente0276@mail.com;+54 11 5294-9503
+CLI0277;Cliente 0277;Minorista;CABA;04/10/2021;Activo;cliente0277@mail.com;+54 11 6329-6870
+CLI0278;Cliente 0278;Mayorista;Buenos Aires;12/01/2024;Activo;cliente0278@mail.com;+54 11 6011-6356
+CLI0279;Cliente 0279;Minorista;Buenos Aires;09/04/2022;Activo;cliente0279@mail.com;+54 11 6151-7757
+CLI0280;Cliente 0280;Minorista;CABA;20/02/2024;Activo;cliente0280@mail.com;+54 11 5885-9337
+CLI0281;Cliente 0281;Empresa;Buenos Aires;19/03/2023;Activo;cliente0281@mail.com;+54 11 5353-6986
+CLI0282;Cliente 0282;Mayorista;Buenos Aires;21/09/2024;Activo;cliente0282@mail.com;+54 11 5389-4923
+CLI0283;Cliente 0283;Minorista;Córdoba;30/03/2022;Inactivo;cliente0283@mail.com;+54 11 4830-4426
+CLI0284;Cliente 0284;Mayorista;Santa Fe;27/03/2021;Activo;cliente0284@mail.com;+54 11 4687-9078
+CLI0285;Cliente 0285;Empresa;Santa Fe;05/07/2024;Activo;cliente0285@mail.com;+54 11 4974-3400
+CLI0286;Cliente 0286;Empresa;Buenos Aires;28/03/2021;Activo;cliente0286@mail.com;+54 11 5755-4065
+CLI0287;Cliente 0287;Empresa;Mendoza;22/06/2020;Activo;cliente0287@mail.com;+54 11 4051-7406
+CLI0288;Cliente 0288;Minorista;Buenos Aires;03/02/2023;Activo;cliente0288@mail.com;+54 11 5593-4658
+CLI0289;Cliente 0289;Minorista;Buenos Aires;17/02/2024;Inactivo;cliente0289@mail.com;+54 11 6730-1065
+CLI0290;Cliente 0290;Minorista;CABA;24/12/2023;Inactivo;cliente0290@mail.com;+54 11 5467-7245
+CLI0291;Cliente 0291;Minorista;Buenos Aires;01/10/2020;Activo;cliente0291@mail.com;+54 11 4981-1754
+CLI0292;Cliente 0292;Mayorista;CABA;31/12/2021;Activo;cliente0292@mail.com;+54 11 6552-8802
+CLI0293;Cliente 0293;Minorista;Santa Fe;19/12/2023;Activo;cliente0293@mail.com;+54 11 4028-1747
+CLI0294;Cliente 0294;Minorista;Entre Ríos;16/05/2022;Activo;cliente0294@mail.com;+54 11 5246-3678
+CLI0295;Cliente 0295;Minorista;Buenos Aires;03/07/2021;Activo;cliente0295@mail.com;+54 11 5527-3760
+CLI0296;Cliente 0296;Minorista;CABA;17/06/2022;Activo;cliente0296@mail.com;+54 11 6657-7587
+CLI0297;Cliente 0297;Empresa;Buenos Aires;31/12/2020;Activo;cliente0297@mail.com;+54 11 6976-7199
+CLI0298;Cliente 0298;Minorista;CABA;11/05/2020;Activo;cliente0298@mail.com;+54 11 4974-8546
+CLI0299;Cliente 0299;Minorista;Buenos Aires;20/03/2022;Activo;cliente0299@mail.com;+54 11 5837-3126
+CLI0300;Cliente 0300;Minorista;Entre Ríos;28/11/2021;Activo;cliente0300@mail.com;+54 11 5371-6409
+CLI0301;Cliente 0301;Empresa;Buenos Aires;12/12/2022;Activo;cliente0301@mail.com;+54 11 6544-2458
+CLI0302;Cliente 0302;Minorista;Santa Fe;27/11/2023;Activo;cliente0302@mail.com;+54 11 4303-4589
+CLI0303;Cliente 0303;Minorista;CABA;26/11/2021;Activo;cliente0303@mail.com;+54 11 4463-7358
+CLI0304;Cliente 0304;Minorista;Tucumán;15/10/2021;Activo;cliente0304@mail.com;+54 11 6067-6310
+CLI0305;Cliente 0305;Minorista;Buenos Aires;24/10/2020;Activo;cliente0305@mail.com;+54 11 5840-3088
+CLI0306;Cliente 0306;Minorista;CABA;16/04/2023;Activo;cliente0306@mail.com;+54 11 5907-7062
+CLI0307;Cliente 0307;Minorista;Buenos Aires;02/11/2022;Inactivo;cliente0307@mail.com;+54 11 5423-4304
+CLI0308;Cliente 0308;Mayorista;Santa Fe;04/09/2023;Activo;cliente0308@mail.com;+54 11 4269-9196
+CLI0309;Cliente 0309;Minorista;Buenos Aires;14/07/2024;Activo;cliente0309@mail.com;+54 11 5603-3103
+CLI0310;Cliente 0310;Minorista;CABA;20/08/2020;Activo;cliente0310@mail.com;+54 11 4515-7733
+CLI0311;Cliente 0311;Minorista;Buenos Aires;15/09/2024;Activo;cliente0311@mail.com;+54 11 6001-6481
+CLI0312;Cliente 0312;Empresa;Buenos Aires;26/10/2021;Activo;cliente0312@mail.com;+54 11 6173-8543
+CLI0313;Cliente 0313;Profesional;CABA;24/02/2024;Inactivo;cliente0313@mail.com;+54 11 5374-2450
+CLI0314;Cliente 0314;Minorista;Tucumán;20/06/2023;Inactivo;;+54 11 6271-8868
+CLI0315;Cliente 0315;Minorista;Mendoza;13/07/2023;Activo;cliente0315@mail.com;+54 11 6853-2658
+CLI0316;Cliente 0316;Minorista;Santa Fe;23/10/2021;Activo;cliente0316@mail.com;+54 11 6301-5489
+CLI0317;Cliente 0317;Minorista;Buenos Aires;28/03/2020;Activo;cliente0317@mail.com;+54 11 6790-3086
+CLI0318;Cliente 0318;Minorista;Entre Ríos;06/06/2024;Activo;cliente0318@mail.com;+54 11 6773-3791
+CLI0319;Cliente 0319;Minorista;Mendoza;23/09/2022;Activo;cliente0319@mail.com;+54 11 5551-5821
+CLI0320;Cliente 0320;Minorista;Buenos Aires;15/12/2023;Inactivo;cliente0320@mail.com;+54 11 5447-5592
+CLI0321;Cliente 0321;Minorista;Entre Ríos;08/02/2023;Activo;cliente0321@mail.com;+54 11 6953-7126
+CLI0322;Cliente 0322;Empresa;Buenos Aires;04/05/2022;Activo;cliente0322@mail.com;+54 11 6352-8174
+CLI0323;Cliente 0323;Mayorista;Buenos Aires;12/12/2022;Inactivo;cliente0323@mail.com;+54 11 5187-8330
+CLI0324;Cliente 0324;Minorista;Santa Fe;18/11/2022;Inactivo;cliente0324@mail.com;+54 11 6598-6242
+CLI0325;Cliente 0325;Minorista;Buenos Aires;04/11/2020;Activo;cliente0325@mail.com;+54 11 4193-6242
+CLI0326;Cliente 0326;Minorista;Córdoba;17/08/2024;Activo;cliente0326@mail.com;+54 11 4688-2911
+CLI0327;Cliente 0327;Mayorista;Buenos Aires;24/01/2023;Activo;cliente0327@mail.com;+54 11 4965-2120
+CLI0328;Cliente 0328;Profesional;Buenos Aires;16/04/2023;Activo;cliente0328@mail.com;+54 11 4757-5518
+CLI0329;Cliente 0329;Empresa;Buenos Aires;23/08/2024;Activo;cliente0329@mail.com;+54 11 4977-4934
+CLI0330;Cliente 0330;Minorista;Buenos Aires;02/09/2021;Activo;cliente0330@mail.com;+54 11 6250-9234
+CLI0331;Cliente 0331;Minorista;CABA;27/10/2020;Inactivo;cliente0331@mail.com;+54 11 5241-7003
+CLI0332;Cliente 0332;Minorista;Neuquén;11/02/2022;Activo;cliente0332@mail.com;+54 11 4725-7338
+CLI0333;Cliente 0333;Minorista;CABA;03/06/2024;Activo;cliente0333@mail.com;+54 11 5716-6155
+CLI0334;Cliente 0334;Minorista;Buenos Aires;02/04/2023;Activo;cliente0334@mail.com;+54 11 5649-2627
+CLI0335;Cliente 0335;Minorista;Buenos Aires;29/05/2022;Activo;cliente0335@mail.com;+54 11 6753-4830
+CLI0336;Cliente 0336;Minorista;Buenos Aires;27/09/2022;Activo;cliente0336@mail.com;+54 11 6064-4484
+CLI0337;Cliente 0337;Minorista;Buenos Aires;01/10/2021;Activo;cliente0337@mail.com;+54 11 6222-4132
+CLI0338;Cliente 0338;Minorista;Córdoba;31/08/2020;Inactivo;cliente0338@mail.com;+54 11 5134-9188
+CLI0339;Cliente 0339;Minorista;Buenos Aires;15/06/2024;Activo;cliente0339@mail.com;+54 11 6991-5308
+CLI0340;Cliente 0340;Minorista;Tucumán;08/10/2021;Activo;cliente0340@mail.com;+54 11 6744-1706
+CLI0341;Cliente 0341;Empresa;Neuquén;07/05/2023;Activo;cliente0341@mail.com;+54 11 6155-3955
+CLI0342;Cliente 0342;Minorista;Buenos Aires;22/12/2022;Activo;cliente0342@mail.com;+54 11 4288-1026
+CLI0343;Cliente 0343;Minorista;Buenos Aires;10/02/2021;Activo;cliente0343@mail.com;+54 11 5573-9494
+CLI0344;Cliente 0344;Empresa;Córdoba;21/07/2020;Activo;cliente0344@mail.com;+54 11 4659-4063
+CLI0345;Cliente 0345;Minorista;Santa Fe;21/12/2021;Activo;cliente0345@mail.com;+54 11 6278-2532
+CLI0346;Cliente 0346;Minorista;Córdoba;03/11/2023;Activo;cliente0346@mail.com;+54 11 6258-1255
+CLI0347;Cliente 0347;Minorista;Santa Fe;23/02/2023;Activo;cliente0347@mail.com;+54 11 4012-4977
+CLI0348;Cliente 0348;Empresa;CABA;13/01/2024;Inactivo;cliente0348@mail.com;+54 11 6982-4695
+CLI0349;Cliente 0349;Minorista;Buenos Aires;06/12/2020;Activo;cliente0349@mail.com;+54 11 6050-9200
+CLI0350;Cliente 0350;Minorista;Santa Fe;07/11/2022;Activo;cliente0350@mail.com;+54 11 5254-3623
+CLI0351;Cliente 0351;Minorista;CABA;21/05/2021;Activo;cliente0351@mail.com;+54 11 6394-8154
+CLI0352;Cliente 0352;Minorista;Mendoza;27/02/2022;Activo;cliente0352@mail.com;+54 11 5157-6911
+CLI0353;Cliente 0353;Minorista;Santa Fe;16/03/2024;Activo;cliente0353@mail.com;+54 11 6997-7909
+CLI0354;Cliente 0354;Empresa;CABA;14/11/2024;Activo;cliente0354@mail.com;+54 11 5288-1788
+CLI0355;Cliente 0355;Minorista;Buenos Aires;15/01/2024;Activo;cliente0355@mail.com;+54 11 5817-5802
+CLI0356;Cliente 0356;Mayorista;Buenos Aires;15/07/2020;Activo;cliente0356@mail.com;+54 11 6854-2801
+CLI0357;Cliente 0357;Mayorista;Entre Ríos;08/09/2022;Activo;cliente0357@mail.com;+54 11 5603-1649
+CLI0358;Cliente 0358;Minorista;Buenos Aires;24/10/2020;Activo;cliente0358@mail.com;+54 11 5669-9115
+CLI0359;Cliente 0359;Minorista;Buenos Aires;18/06/2022;Activo;;+54 11 5545-1596
+CLI0360;Cliente 0360;Minorista;Córdoba;19/03/2024;Activo;cliente0360@mail.com;+54 11 4876-7266
+CLI0361;Cliente 0361;Mayorista;Buenos Aires;14/01/2024;Activo;cliente0361@mail.com;+54 11 4512-6270
+CLI0362;Cliente 0362;Minorista;CABA;13/06/2024;Activo;cliente0362@mail.com;+54 11 5866-2220
+CLI0363;Cliente 0363;Empresa;Buenos Aires;25/04/2020;Activo;cliente0363@mail.com;+54 11 4817-2741
+CLI0364;Cliente 0364;Mayorista;Buenos Aires;20/12/2022;Activo;cliente0364@mail.com;+54 11 5756-7386
+CLI0365;Cliente 0365;Minorista;Buenos Aires;16/02/2023;Activo;cliente0365@mail.com;+54 11 5893-5869
+CLI0366;Cliente 0366;Minorista;CABA;03/04/2021;Activo;cliente0366@mail.com;+54 11 5606-4856
+CLI0367;Cliente 0367;Mayorista;Buenos Aires;22/04/2023;Activo;cliente0367@mail.com;+54 11 6210-4077
+CLI0368;Cliente 0368;Minorista;Buenos Aires;30/06/2022;Activo;cliente0368@mail.com;+54 11 5231-9790
+CLI0369;Cliente 0369;Mayorista;Córdoba;20/06/2020;Activo;cliente0369@mail.com;+54 11 4722-6543
+CLI0370;Cliente 0370;Mayorista;CABA;28/03/2020;Activo;cliente0370@mail.com;+54 11 4695-2834
+CLI0371;Cliente 0371;Empresa;Tucumán;10/05/2023;Activo;cliente0371@mail.com;+54 11 5743-2677
+CLI0372;Cliente 0372;Mayorista;Neuquén;05/03/2023;Activo;cliente0372@mail.com;+54 11 6257-2806
+CLI0373;Cliente 0373;Minorista;CABA;15/04/2024;Activo;cliente0373@mail.com;+54 11 4910-3817
+CLI0374;Cliente 0374;Mayorista;Mendoza;02/08/2023;Activo;cliente0374@mail.com;+54 11 5138-2582
+CLI0375;Cliente 0375;Minorista;Córdoba;24/09/2021;Activo;cliente0375@mail.com;+54 11 4186-2299
+CLI0376;Cliente 0376;Mayorista;Buenos Aires;22/05/2023;Activo;cliente0376@mail.com;+54 11 6742-8692
+CLI0377;Cliente 0377;Minorista;Buenos Aires;28/08/2020;Activo;cliente0377@mail.com;+54 11 6920-7520
+CLI0378;Cliente 0378;Profesional;Neuquén;09/06/2021;Activo;cliente0378@mail.com;+54 11 6154-6112
+CLI0379;Cliente 0379;Minorista;Buenos Aires;24/08/2024;Activo;cliente0379@mail.com;+54 11 6320-9716
+CLI0380;Cliente 0380;Minorista;Buenos Aires;14/03/2023;Activo;cliente0380@mail.com;+54 11 4253-5720
+CLI0381;Cliente 0381;Minorista;Neuquén;21/04/2021;Activo;cliente0381@mail.com;+54 11 6114-3963
+CLI0382;Cliente 0382;Minorista;CABA;09/07/2024;Activo;cliente0382@mail.com;+54 11 5608-8661
+CLI0383;Cliente 0383;Minorista;Buenos Aires;23/02/2020;Activo;cliente0383@mail.com;+54 11 5167-7579
+CLI0384;Cliente 0384;Minorista;Buenos Aires;10/02/2023;Activo;cliente0384@mail.com;+54 11 5728-9397
+CLI0385;Cliente 0385;Minorista;Tucumán;20/02/2023;Activo;cliente0385@mail.com;+54 11 6674-9171
+CLI0386;Cliente 0386;Minorista;Buenos Aires;26/05/2023;Activo;cliente0386@mail.com;+54 11 5703-7691
+CLI0387;Cliente 0387;Minorista;Córdoba;09/04/2021;Activo;cliente0387@mail.com;+54 11 4030-4513
+CLI0388;Cliente 0388;Minorista;Buenos Aires;07/07/2023;Activo;cliente0388@mail.com;+54 11 4648-5451
+CLI0389;Cliente 0389;Minorista;Buenos Aires;20/10/2022;Inactivo;cliente0389@mail.com;+54 11 4304-9027
+CLI0390;Cliente 0390;Empresa;Buenos Aires;21/02/2021;Activo;cliente0390@mail.com;+54 11 5952-1050
+CLI0391;Cliente 0391;Minorista;Buenos Aires;19/10/2024;Activo;cliente0391@mail.com;+54 11 6768-4591
+CLI0392;Cliente 0392;Minorista;Buenos Aires;02/11/2024;Activo;cliente0392@mail.com;+54 11 4096-2291
+CLI0393;Cliente 0393;Minorista;Buenos Aires;01/03/2023;Activo;;+54 11 5264-8696
+CLI0394;Cliente 0394;Minorista;Córdoba;10/11/2020;Activo;cliente0394@mail.com;+54 11 5290-6345
+CLI0395;Cliente 0395;Minorista;Buenos Aires;17/07/2022;Activo;cliente0395@mail.com;+54 11 4189-6349
+CLI0396;Cliente 0396;Minorista;Buenos Aires;16/08/2022;Activo;cliente0396@mail.com;
+CLI0397;Cliente 0397;Minorista;CABA;10/12/2022;Activo;cliente0397@mail.com;+54 11 6971-2602
+CLI0398;Cliente 0398;Minorista;Córdoba;14/12/2022;Activo;cliente0398@mail.com;+54 11 6584-5401
+CLI0399;Cliente 0399;Minorista;Buenos Aires;18/10/2020;Activo;cliente0399@mail.com;+54 11 4442-8673
+CLI0400;Cliente 0400;Mayorista;Buenos Aires;25/09/2021;Activo;cliente0400@mail.com;+54 11 6952-9531
+CLI0401;Cliente 0401;Minorista;CABA;05/01/2024;Activo;cliente0401@mail.com;+54 11 4405-9962
+CLI0402;Cliente 0402;Minorista;Buenos Aires;06/03/2020;Activo;cliente0402@mail.com;+54 11 5041-2269
+CLI0403;Cliente 0403;Minorista;Buenos Aires;21/03/2021;Activo;cliente0403@mail.com;+54 11 4101-6811
+CLI0404;Cliente 0404;Minorista;CABA;26/06/2020;Activo;cliente0404@mail.com;+54 11 5660-8093
+CLI0405;Cliente 0405;Minorista;Buenos Aires;11/04/2024;Activo;cliente0405@mail.com;+54 11 6594-1991
+CLI0406;Cliente 0406;Mayorista;CABA;26/09/2021;Activo;cliente0406@mail.com;+54 11 6764-4547
+CLI0407;Cliente 0407;Minorista;Buenos Aires;19/03/2024;Activo;cliente0407@mail.com;+54 11 5582-9354
+CLI0408;Cliente 0408;Minorista;Buenos Aires;08/04/2024;Activo;cliente0408@mail.com;+54 11 4066-5686
+CLI0409;Cliente 0409;Minorista;Córdoba;13/08/2024;Activo;cliente0409@mail.com;+54 11 4120-6624
+CLI0410;Cliente 0410;Minorista;Córdoba;27/12/2023;Activo;cliente0410@mail.com;+54 11 6770-4225
+CLI0411;Cliente 0411;Minorista;Tucumán;01/12/2023;Inactivo;;+54 11 6346-4218
+CLI0412;Cliente 0412;Minorista;Mendoza;08/08/2023;Activo;cliente0412@mail.com;+54 11 5807-2600
+CLI0413;Cliente 0413;Minorista;CABA;03/02/2024;Activo;cliente0413@mail.com;+54 11 6197-4661
+CLI0414;Cliente 0414;Mayorista;Buenos Aires;10/08/2021;Activo;cliente0414@mail.com;+54 11 5960-9943
+CLI0415;Cliente 0415;Minorista;Buenos Aires;03/06/2023;Activo;cliente0415@mail.com;+54 11 6671-3993
+CLI0416;Cliente 0416;Mayorista;Tucumán;02/08/2020;Activo;cliente0416@mail.com;+54 11 5543-2020
+CLI0417;Cliente 0417;Minorista;Buenos Aires;24/03/2020;Activo;cliente0417@mail.com;+54 11 4541-5712
+CLI0418;Cliente 0418;Profesional;Buenos Aires;05/11/2022;Activo;cliente0418@mail.com;+54 11 4839-7833
+CLI0419;Cliente 0419;Mayorista;Santa Fe;22/02/2021;Activo;cliente0419@mail.com;+54 11 5431-2616
+CLI0420;Cliente 0420;Minorista;Buenos Aires;10/08/2021;Inactivo;cliente0420@mail.com;+54 11 5822-9329
+CLI0421;Cliente 0421;Minorista;Neuquén;25/04/2024;Activo;cliente0421@mail.com;+54 11 4764-5699
+CLI0422;Cliente 0422;Mayorista;Neuquén;15/01/2022;Activo;cliente0422@mail.com;+54 11 5258-9691
+CLI0423;Cliente 0423;Mayorista;Buenos Aires;09/11/2024;Activo;cliente0423@mail.com;+54 11 5506-1856
+CLI0424;Cliente 0424;Minorista;Córdoba;22/06/2023;Activo;cliente0424@mail.com;+54 11 4270-5457
+CLI0425;Cliente 0425;Minorista;Córdoba;09/06/2021;Inactivo;cliente0425@mail.com;+54 11 6244-9689
+CLI0426;Cliente 0426;Minorista;Mendoza;26/10/2021;Activo;cliente0426@mail.com;+54 11 6024-1300
+CLI0427;Cliente 0427;Minorista;Buenos Aires;07/07/2023;Activo;cliente0427@mail.com;+54 11 6750-3697
+CLI0428;Cliente 0428;Minorista;CABA;17/02/2022;Inactivo;cliente0428@mail.com;+54 11 4385-7618
+CLI0429;Cliente 0429;Minorista;Mendoza;25/06/2021;Activo;cliente0429@mail.com;+54 11 6380-6494
+CLI0430;Cliente 0430;Minorista;Buenos Aires;13/07/2024;Activo;cliente0430@mail.com;+54 11 4539-2339
+CLI0431;Cliente 0431;Minorista;CABA;08/06/2024;Activo;cliente0431@mail.com;+54 11 4429-7599
+CLI0432;Cliente 0432;Minorista;Buenos Aires;29/03/2022;Activo;cliente0432@mail.com;+54 11 4845-6341
+CLI0433;Cliente 0433;Profesional;CABA;22/03/2022;Activo;cliente0433@mail.com;+54 11 5717-3942
+CLI0434;Cliente 0434;Minorista;Entre Ríos;11/07/2024;Activo;cliente0434@mail.com;+54 11 4397-6943
+CLI0435;Cliente 0435;Mayorista;Buenos Aires;19/05/2021;Activo;cliente0435@mail.com;+54 11 6325-5700
+CLI0436;Cliente 0436;Empresa;Mendoza;19/11/2023;Activo;cliente0436@mail.com;
+CLI0437;Cliente 0437;Minorista;Buenos Aires;20/05/2021;Activo;cliente0437@mail.com;+54 11 5340-8012
+CLI0438;Cliente 0438;Minorista;Mendoza;15/08/2022;Activo;cliente0438@mail.com;+54 11 4127-6811
+CLI0439;Cliente 0439;Empresa;Santa Fe;05/04/2023;Activo;cliente0439@mail.com;+54 11 5594-9733
+CLI0440;Cliente 0440;Minorista;Santa Fe;19/11/2022;Inactivo;cliente0440@mail.com;+54 11 4079-9534
+CLI0441;Cliente 0441;Minorista;Mendoza;27/07/2021;Activo;cliente0441@mail.com;+54 11 6656-8006
+CLI0442;Cliente 0442;Minorista;CABA;14/08/2024;Inactivo;cliente0442@mail.com;+54 11 4576-7466
+CLI0443;Cliente 0443;Minorista;Mendoza;11/12/2023;Activo;cliente0443@mail.com;+54 11 4528-5363
+CLI0444;Cliente 0444;Minorista;Buenos Aires;30/08/2024;Activo;cliente0444@mail.com;+54 11 5773-5906
+CLI0445;Cliente 0445;Minorista;Buenos Aires;16/12/2023;Activo;cliente0445@mail.com;+54 11 6822-5290
+CLI0446;Cliente 0446;Minorista;Santa Fe;07/05/2021;Activo;cliente0446@mail.com;+54 11 5876-2214
+CLI0447;Cliente 0447;Minorista;CABA;30/05/2021;Inactivo;cliente0447@mail.com;+54 11 5904-8996
+CLI0448;Cliente 0448;Minorista;Buenos Aires;15/04/2024;Activo;cliente0448@mail.com;+54 11 5694-7414
+CLI0449;Cliente 0449;Empresa;Córdoba;22/04/2024;Activo;cliente0449@mail.com;+54 11 5471-2667
+CLI0450;Cliente 0450;Minorista;Entre Ríos;28/02/2021;Activo;cliente0450@mail.com;+54 11 5899-9272
+CLI0451;Cliente 0451;Mayorista;Santa Fe;20/05/2021;Activo;cliente0451@mail.com;+54 11 4778-5914
+CLI0452;Cliente 0452;Minorista;Mendoza;02/02/2023;Activo;cliente0452@mail.com;+54 11 5509-1743
+CLI0453;Cliente 0453;Minorista;Buenos Aires;09/07/2022;Activo;cliente0453@mail.com;+54 11 6149-5791
+CLI0454;Cliente 0454;Minorista;Córdoba;14/03/2020;Activo;cliente0454@mail.com;+54 11 4129-4101
+CLI0455;Cliente 0455;Empresa;Córdoba;22/10/2023;Activo;cliente0455@mail.com;+54 11 4837-1458
+CLI0456;Cliente 0456;Profesional;Neuquén;26/07/2023;Activo;cliente0456@mail.com;+54 11 4083-5419
+CLI0457;Cliente 0457;Minorista;Tucumán;17/01/2024;Activo;cliente0457@mail.com;+54 11 4745-7521
+CLI0458;Cliente 0458;Mayorista;Buenos Aires;27/10/2020;Activo;cliente0458@mail.com;+54 11 5416-3813
+CLI0459;Cliente 0459;Minorista;Buenos Aires;24/05/2020;Activo;cliente0459@mail.com;+54 11 4967-1422
+CLI0460;Cliente 0460;Minorista;Santa Fe;03/03/2022;Activo;cliente0460@mail.com;+54 11 4098-2763
+CLI0461;Cliente 0461;Minorista;Buenos Aires;21/07/2021;Activo;cliente0461@mail.com;+54 11 6343-2051
+CLI0462;Cliente 0462;Profesional;Neuquén;09/08/2024;Activo;cliente0462@mail.com;+54 11 6137-4349
+CLI0463;Cliente 0463;Mayorista;Buenos Aires;15/03/2021;Activo;cliente0463@mail.com;+54 11 5382-2796
+CLI0464;Cliente 0464;Mayorista;CABA;16/12/2021;Inactivo;cliente0464@mail.com;+54 11 4161-2820
+CLI0465;Cliente 0465;Minorista;Buenos Aires;29/04/2022;Inactivo;cliente0465@mail.com;+54 11 4819-7243
+CLI0466;Cliente 0466;Empresa;CABA;28/05/2023;Activo;cliente0466@mail.com;+54 11 6071-8398
+CLI0467;Cliente 0467;Minorista;CABA;23/06/2023;Activo;cliente0467@mail.com;+54 11 4826-7007
+CLI0468;Cliente 0468;Minorista;Buenos Aires;16/08/2022;Inactivo;cliente0468@mail.com;+54 11 5694-8242
+CLI0469;Cliente 0469;Mayorista;Buenos Aires;29/12/2020;Activo;cliente0469@mail.com;+54 11 6244-5434
+CLI0470;Cliente 0470;Profesional;Buenos Aires;11/08/2022;Activo;cliente0470@mail.com;+54 11 4688-4347
+CLI0471;Cliente 0471;Minorista;Santa Fe;07/05/2021;Inactivo;cliente0471@mail.com;+54 11 6303-7429
+CLI0472;Cliente 0472;Minorista;CABA;26/03/2020;Activo;cliente0472@mail.com;+54 11 6617-7246
+CLI0473;Cliente 0473;Minorista;CABA;12/11/2020;Activo;;+54 11 6971-5853
+CLI0474;Cliente 0474;Minorista;Buenos Aires;25/06/2023;Activo;cliente0474@mail.com;+54 11 5442-7456
+CLI0475;Cliente 0475;Empresa;Buenos Aires;01/07/2024;Activo;cliente0475@mail.com;+54 11 6218-7111
+CLI0476;Cliente 0476;Empresa;Buenos Aires;13/08/2021;Activo;cliente0476@mail.com;+54 11 4351-9469
+CLI0477;Cliente 0477;Minorista;Buenos Aires;01/07/2024;Activo;cliente0477@mail.com;+54 11 6310-9014
+CLI0478;Cliente 0478;Minorista;Buenos Aires;17/08/2021;Activo;cliente0478@mail.com;+54 11 4002-7834
+CLI0479;Cliente 0479;Minorista;Mendoza;08/07/2020;Activo;cliente0479@mail.com;+54 11 4253-6109
+CLI0480;Cliente 0480;Minorista;Mendoza;10/06/2020;Activo;cliente0480@mail.com;+54 11 5680-9549
+CLI0481;Cliente 0481;Minorista;Entre Ríos;18/02/2022;Activo;cliente0481@mail.com;+54 11 4609-2187
+CLI0482;Cliente 0482;Minorista;CABA;08/01/2023;Activo;cliente0482@mail.com;+54 11 5235-2155
+CLI0483;Cliente 0483;Minorista;Santa Fe;10/06/2022;Inactivo;cliente0483@mail.com;+54 11 4167-5033
+CLI0484;Cliente 0484;Mayorista;Neuquén;04/07/2024;Activo;cliente0484@mail.com;+54 11 4499-3361
+CLI0485;Cliente 0485;Mayorista;Buenos Aires;05/12/2021;Activo;;+54 11 6240-9642
+CLI0486;Cliente 0486;Profesional;CABA;18/03/2024;Activo;cliente0486@mail.com;+54 11 6962-2316
+CLI0487;Cliente 0487;Minorista;CABA;17/11/2024;Activo;cliente0487@mail.com;+54 11 6819-7108
+CLI0488;Cliente 0488;Minorista;Mendoza;09/01/2021;Activo;cliente0488@mail.com;+54 11 4775-7170
+CLI0489;Cliente 0489;Empresa;Buenos Aires;14/03/2021;Activo;cliente0489@mail.com;+54 11 6911-9593
+CLI0490;Cliente 0490;Minorista;Buenos Aires;19/10/2023;Inactivo;cliente0490@mail.com;+54 11 4387-2379
+CLI0491;Cliente 0491;Minorista;Buenos Aires;18/11/2021;Activo;cliente0491@mail.com;+54 11 4867-4623
+CLI0492;Cliente 0492;Mayorista;Neuquén;09/02/2021;Inactivo;cliente0492@mail.com;+54 11 5670-1555
+CLI0493;Cliente 0493;Minorista;CABA;26/08/2020;Inactivo;cliente0493@mail.com;+54 11 5422-3771
+CLI0494;Cliente 0494;Minorista;CABA;28/11/2022;Activo;cliente0494@mail.com;+54 11 6734-4763
+CLI0495;Cliente 0495;Mayorista;Buenos Aires;22/05/2020;Activo;cliente0495@mail.com;+54 11 6135-1487
+CLI0496;Cliente 0496;Minorista;Buenos Aires;19/01/2022;Activo;cliente0496@mail.com;+54 11 5230-1549
+CLI0497;Cliente 0497;Profesional;Entre Ríos;25/06/2020;Inactivo;cliente0497@mail.com;+54 11 5147-3969
+CLI0498;Cliente 0498;Minorista;CABA;01/11/2023;Activo;cliente0498@mail.com;+54 11 4778-3022
+CLI0499;Cliente 0499;Mayorista;CABA;13/12/2023;Inactivo;cliente0499@mail.com;+54 11 5351-9035
+CLI0500;Cliente 0500;Minorista;Córdoba;13/06/2023;Activo;cliente0500@mail.com;+54 11 5045-5013
+CLI0501;Cliente 0501;Minorista;CABA;10/09/2020;Activo;cliente0501@mail.com;+54 11 4837-1895
+CLI0502;Cliente 0502;Minorista;Buenos Aires;18/12/2021;Activo;cliente0502@mail.com;+54 11 4164-8759
+CLI0503;Cliente 0503;Minorista;Buenos Aires;16/07/2022;Activo;cliente0503@mail.com;+54 11 4699-2661
+CLI0504;Cliente 0504;Empresa;Entre Ríos;24/11/2024;Activo;cliente0504@mail.com;+54 11 6993-4197
+CLI0505;Cliente 0505;Mayorista;Buenos Aires;19/04/2020;Activo;cliente0505@mail.com;+54 11 5560-5197
+CLI0506;Cliente 0506;Mayorista;Entre Ríos;29/05/2020;Activo;cliente0506@mail.com;+54 11 6460-5701
+CLI0507;Cliente 0507;Minorista;Mendoza;11/03/2023;Activo;cliente0507@mail.com;+54 11 4550-7295
+CLI0508;Cliente 0508;Minorista;CABA;02/10/2023;Activo;cliente0508@mail.com;+54 11 4542-7114
+CLI0509;Cliente 0509;Profesional;Buenos Aires;30/08/2021;Activo;cliente0509@mail.com;+54 11 6924-7985
+CLI0510;Cliente 0510;Minorista;Buenos Aires;17/05/2023;Activo;cliente0510@mail.com;+54 11 5170-7534
+CLI0511;Cliente 0511;Minorista;Santa Fe;10/08/2022;Activo;cliente0511@mail.com;+54 11 4141-7543
+CLI0512;Cliente 0512;Empresa;CABA;10/06/2023;Activo;;+54 11 4118-2963
+CLI0513;Cliente 0513;Minorista;CABA;04/10/2023;Activo;cliente0513@mail.com;+54 11 6358-5033
+CLI0514;Cliente 0514;Minorista;Santa Fe;30/12/2023;Activo;cliente0514@mail.com;+54 11 6913-8417
+CLI0515;Cliente 0515;Profesional;CABA;09/10/2020;Activo;cliente0515@mail.com;+54 11 6951-8933
+CLI0516;Cliente 0516;Mayorista;Neuquén;28/05/2023;Activo;cliente0516@mail.com;+54 11 6271-3416
+CLI0517;Cliente 0517;Empresa;Buenos Aires;30/04/2021;Activo;cliente0517@mail.com;+54 11 4995-7521
+CLI0518;Cliente 0518;Profesional;Buenos Aires;14/02/2020;Activo;cliente0518@mail.com;
+CLI0519;Cliente 0519;Empresa;Tucumán;07/05/2023;Activo;cliente0519@mail.com;+54 11 5307-5040
+CLI0520;Cliente 0520;Profesional;Santa Fe;08/06/2023;Activo;cliente0520@mail.com;+54 11 4813-6009
+CLI0521;Cliente 0521;Minorista;Buenos Aires;12/06/2022;Activo;cliente0521@mail.com;+54 11 5977-6012
+CLI0522;Cliente 0522;Profesional;CABA;11/03/2022;Activo;cliente0522@mail.com;+54 11 6560-7885
+CLI0523;Cliente 0523;Mayorista;Santa Fe;22/06/2021;Inactivo;cliente0523@mail.com;+54 11 6121-9132
+CLI0524;Cliente 0524;Empresa;Buenos Aires;18/12/2021;Activo;cliente0524@mail.com;+54 11 4016-6203
+CLI0525;Cliente 0525;Empresa;CABA;28/02/2023;Activo;cliente0525@mail.com;+54 11 6495-3288
+CLI0526;Cliente 0526;Empresa;CABA;02/03/2023;Activo;cliente0526@mail.com;+54 11 6610-4422
+CLI0527;Cliente 0527;Minorista;Buenos Aires;30/08/2022;Inactivo;cliente0527@mail.com;+54 11 5513-5981
+CLI0528;Cliente 0528;Empresa;Mendoza;26/01/2024;Activo;cliente0528@mail.com;+54 11 6548-3644
+CLI0529;Cliente 0529;Minorista;Buenos Aires;09/09/2021;Activo;cliente0529@mail.com;+54 11 5768-9107
+CLI0530;Cliente 0530;Profesional;Entre Ríos;10/06/2023;Activo;cliente0530@mail.com;+54 11 4404-3969
+CLI0531;Cliente 0531;Minorista;Buenos Aires;28/05/2020;Activo;cliente0531@mail.com;+54 11 4993-7975
+CLI0532;Cliente 0532;Minorista;Córdoba;20/11/2024;Activo;cliente0532@mail.com;+54 11 6141-7778
+CLI0533;Cliente 0533;Mayorista;Buenos Aires;03/10/2023;Activo;cliente0533@mail.com;+54 11 6896-4194
+CLI0534;Cliente 0534;Minorista;Buenos Aires;17/12/2022;Activo;cliente0534@mail.com;+54 11 4054-3459
+CLI0535;Cliente 0535;Minorista;Buenos Aires;16/10/2024;Activo;cliente0535@mail.com;+54 11 4809-3149
+CLI0536;Cliente 0536;Mayorista;Córdoba;27/01/2021;Activo;cliente0536@mail.com;+54 11 6708-4937
+CLI0537;Cliente 0537;Empresa;Buenos Aires;02/09/2024;Activo;cliente0537@mail.com;+54 11 6523-5297
+CLI0538;Cliente 0538;Minorista;Córdoba;13/04/2024;Activo;cliente0538@mail.com;+54 11 4569-1564
+CLI0539;Cliente 0539;Minorista;CABA;17/03/2022;Inactivo;cliente0539@mail.com;+54 11 5622-1212
+CLI0540;Cliente 0540;Minorista;Córdoba;01/09/2020;Inactivo;cliente0540@mail.com;+54 11 6916-5903
+CLI0541;Cliente 0541;Mayorista;Buenos Aires;17/10/2022;Activo;cliente0541@mail.com;+54 11 4581-4053
+CLI0542;Cliente 0542;Minorista;Buenos Aires;01/07/2022;Activo;cliente0542@mail.com;+54 11 5692-7018
+CLI0543;Cliente 0543;Profesional;Buenos Aires;05/11/2021;Activo;cliente0543@mail.com;+54 11 4207-8072
+CLI0544;Cliente 0544;Minorista;Santa Fe;13/09/2022;Activo;cliente0544@mail.com;+54 11 6326-6635
+CLI0545;Cliente 0545;Minorista;Buenos Aires;05/04/2024;Activo;cliente0545@mail.com;+54 11 6466-6581
+CLI0546;Cliente 0546;Mayorista;Tucumán;03/06/2022;Activo;cliente0546@mail.com;+54 11 5471-7326
+CLI0547;Cliente 0547;Minorista;CABA;06/08/2020;Activo;cliente0547@mail.com;+54 11 4858-1389
+CLI0548;Cliente 0548;Minorista;Mendoza;22/08/2022;Inactivo;cliente0548@mail.com;+54 11 6480-8930
+CLI0549;Cliente 0549;Mayorista;Buenos Aires;26/03/2020;Activo;cliente0549@mail.com;+54 11 6479-7432
+CLI0550;Cliente 0550;Minorista;Buenos Aires;04/05/2024;Inactivo;cliente0550@mail.com;+54 11 4352-5177
+CLI0551;Cliente 0551;Empresa;Buenos Aires;11/11/2023;Activo;cliente0551@mail.com;+54 11 6337-2586
+CLI0552;Cliente 0552;Minorista;Entre Ríos;20/05/2024;Activo;cliente0552@mail.com;+54 11 4455-7543
+CLI0553;Cliente 0553;Minorista;Buenos Aires;01/11/2021;Activo;cliente0553@mail.com;+54 11 5881-6586
+CLI0554;Cliente 0554;Minorista;Buenos Aires;16/05/2023;Activo;cliente0554@mail.com;
+CLI0555;Cliente 0555;Profesional;CABA;29/02/2024;Activo;cliente0555@mail.com;+54 11 5276-6460
+CLI0556;Cliente 0556;Minorista;Buenos Aires;23/03/2024;Activo;cliente0556@mail.com;+54 11 4409-2131
+CLI0557;Cliente 0557;Minorista;Buenos Aires;08/06/2020;Activo;cliente0557@mail.com;
+CLI0558;Cliente 0558;Empresa;CABA;27/04/2021;Activo;cliente0558@mail.com;+54 11 4136-6944
+CLI0559;Cliente 0559;Profesional;Buenos Aires;28/02/2022;Activo;cliente0559@mail.com;+54 11 4805-3788
+CLI0560;Cliente 0560;Mayorista;Buenos Aires;31/03/2020;Activo;cliente0560@mail.com;+54 11 6381-5047
+CLI0561;Cliente 0561;Mayorista;Buenos Aires;08/12/2023;Activo;cliente0561@mail.com;+54 11 6457-4705
+CLI0562;Cliente 0562;Minorista;Córdoba;12/03/2024;Activo;cliente0562@mail.com;+54 11 6769-5403
+CLI0563;Cliente 0563;Mayorista;CABA;10/03/2023;Activo;cliente0563@mail.com;+54 11 4244-7131
+CLI0564;Cliente 0564;Profesional;CABA;05/07/2023;Activo;cliente0564@mail.com;+54 11 4576-8033
+CLI0565;Cliente 0565;Minorista;Buenos Aires;29/06/2023;Activo;cliente0565@mail.com;+54 11 5737-3436
+CLI0566;Cliente 0566;Minorista;Mendoza;08/09/2022;Activo;cliente0566@mail.com;+54 11 4577-3268
+CLI0567;Cliente 0567;Mayorista;Santa Fe;23/06/2021;Activo;cliente0567@mail.com;+54 11 5945-5152
+CLI0568;Cliente 0568;Profesional;Mendoza;25/12/2022;Inactivo;cliente0568@mail.com;+54 11 5105-4720
+CLI0569;Cliente 0569;Profesional;Mendoza;25/02/2021;Activo;cliente0569@mail.com;+54 11 4589-2543
+CLI0570;Cliente 0570;Minorista;Santa Fe;23/09/2021;Activo;cliente0570@mail.com;+54 11 6145-9475
+CLI0571;Cliente 0571;Empresa;Buenos Aires;11/05/2024;Inactivo;cliente0571@mail.com;+54 11 5756-2199
+CLI0572;Cliente 0572;Minorista;Mendoza;28/02/2021;Inactivo;cliente0572@mail.com;+54 11 6478-2395
+CLI0573;Cliente 0573;Minorista;Buenos Aires;07/04/2021;Activo;cliente0573@mail.com;+54 11 4798-5902
+CLI0574;Cliente 0574;Empresa;Buenos Aires;26/10/2023;Activo;cliente0574@mail.com;+54 11 4073-8629
+CLI0575;Cliente 0575;Minorista;Buenos Aires;07/05/2024;Activo;cliente0575@mail.com;+54 11 5555-4278
+CLI0576;Cliente 0576;Minorista;Buenos Aires;01/07/2021;Activo;cliente0576@mail.com;+54 11 4736-4460
+CLI0577;Cliente 0577;Mayorista;Tucumán;14/11/2022;Activo;;+54 11 5924-3548
+CLI0578;Cliente 0578;Mayorista;Santa Fe;16/04/2024;Activo;cliente0578@mail.com;+54 11 5887-6636
+CLI0579;Cliente 0579;Minorista;Buenos Aires;25/05/2021;Inactivo;cliente0579@mail.com;+54 11 4763-5631
+CLI0580;Cliente 0580;Minorista;Buenos Aires;27/11/2021;Activo;cliente0580@mail.com;+54 11 4077-9486
+CLI0581;Cliente 0581;Minorista;CABA;18/03/2023;Activo;cliente0581@mail.com;+54 11 5410-4893
+CLI0582;Cliente 0582;Mayorista;Buenos Aires;14/03/2024;Activo;cliente0582@mail.com;+54 11 6349-1272
+CLI0583;Cliente 0583;Minorista;Mendoza;05/08/2020;Inactivo;cliente0583@mail.com;+54 11 6063-9561
+CLI0584;Cliente 0584;Mayorista;Córdoba;13/05/2022;Inactivo;cliente0584@mail.com;+54 11 4969-2226
+CLI0585;Cliente 0585;Profesional;Buenos Aires;21/08/2021;Activo;cliente0585@mail.com;+54 11 6760-6697
+CLI0586;Cliente 0586;Empresa;Santa Fe;21/03/2020;Activo;cliente0586@mail.com;+54 11 5263-4271
+CLI0587;Cliente 0587;Minorista;Entre Ríos;05/05/2022;Activo;cliente0587@mail.com;+54 11 4700-6464
+CLI0588;Cliente 0588;Profesional;Mendoza;05/01/2021;Activo;cliente0588@mail.com;+54 11 6109-8477
+CLI0589;Cliente 0589;Mayorista;Córdoba;17/01/2023;Activo;cliente0589@mail.com;+54 11 5832-1044
+CLI0590;Cliente 0590;Minorista;Mendoza;28/07/2022;Inactivo;cliente0590@mail.com;+54 11 4493-8926
+CLI0591;Cliente 0591;Mayorista;Mendoza;11/12/2021;Activo;cliente0591@mail.com;+54 11 5462-1656
+CLI0592;Cliente 0592;Minorista;CABA;03/02/2020;Activo;cliente0592@mail.com;+54 11 5486-9645
+CLI0593;Cliente 0593;Empresa;Buenos Aires;03/06/2021;Activo;cliente0593@mail.com;+54 11 6348-9119
+CLI0594;Cliente 0594;Profesional;CABA;11/04/2021;Activo;cliente0594@mail.com;+54 11 4487-5229
+CLI0595;Cliente 0595;Minorista;Santa Fe;23/07/2020;Activo;cliente0595@mail.com;+54 11 5222-7844
+CLI0596;Cliente 0596;Minorista;Santa Fe;26/09/2020;Inactivo;cliente0596@mail.com;+54 11 4732-2275
+CLI0597;Cliente 0597;Minorista;Buenos Aires;27/05/2020;Activo;cliente0597@mail.com;+54 11 4006-5875
+CLI0598;Cliente 0598;Mayorista;CABA;28/02/2022;Activo;cliente0598@mail.com;+54 11 6262-2792
+CLI0599;Cliente 0599;Minorista;Buenos Aires;20/11/2024;Activo;cliente0599@mail.com;+54 11 6813-2477
+CLI0600;Cliente 0600;Minorista;Buenos Aires;14/10/2020;Activo;cliente0600@mail.com;+54 11 6048-2590

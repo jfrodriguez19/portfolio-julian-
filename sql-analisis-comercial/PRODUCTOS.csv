@@ -1,0 +1,181 @@
+﻿ProductoID;Producto;CategoriaID;Marca;Subcategoria;CostoUnitario;PrecioLista;EstadoProducto
+PROD0001;Calefactores Modelo 001;CAT04;TempMax;Calefactores;$ 694.325,00;$ 928.224,13;Activo
+PROD0002;Microondas Modelo 002;CAT02;FrostLine;Lavarropas;$ 862.953,00;$ 1.283.031,27;Activo
+PROD0003;Mesas Modelo 003;CAT05;UrbanHome;Mesas;$ 258.223,00;$ 390.134,78;Activo
+PROD0004;Calefactores Modelo 004;CAT04;TempMax;Calefactores;$ 596.634,00;$ 885.297,54;Activo
+PROD0005;Calefactores Modelo 005;CAT04;AirFlow;Calefactores;$ 110.594,00;$ 146.581,20;Activo
+PROD0006;Textil Modelo 006;CAT03;DreamRest;Almohadas;$ 404.942,00;$ 518.008,13;Activo
+PROD0007;Smart TV Modelo 007;CAT01;SoundMax;Notebooks;$ 657.826,00;$ 888.099,02;Activo
+PROD0008;Ventiladores Modelo 008;CAT04;AirFlow;Calefactores;$ 150.976,00;$ 219.972,29;Activo
+PROD0009;Ventiladores Modelo 009;CAT04;AirFlow;Aires Acondicionados;$ 223.002,00;$ 296.718,18;Activo
+PROD0010;Herramientas Modelo 010;CAT06;FixPro;Soportes;$ 75.474,00;$ 98.049,55;Activo
+PROD0011;Herramientas Modelo 011;CAT06;FixPro;Fundas;$ 67.902,00;$ 106.455,42;Activo
+PROD0012;Soportes Modelo 012;CAT06;Connect;Cables;$ 11.308,00;$ 16.638,25;Activo
+PROD0013;Notebooks Modelo 013;CAT01;Vision;Audio;$ 107.638,00;$ 162.044,86;Activo
+PROD0014;Cocinas Modelo 014;CAT02;FrostLine;Heladeras;$ 494.014,00;$ 758.478,43;Activo
+PROD0015;Ventiladores Modelo 015;CAT04;AirFlow;Ventiladores;$ 412.494,00;$ 578.678,68;Activo
+PROD0016;Racks Modelo 016;CAT05;DecoLine;Sillones;$ 161.694,00;$ 235.979,00;Activo
+PROD0017;Sillones Modelo 017;CAT05;MobiCasa;Sillas;$ 385.317,00;$ 551.997,61;Activo
+PROD0018;Cocinas Modelo 018;CAT02;HomePlus;Cocinas;$ 738.346,00;$ 1.073.213,98;Activo
+PROD0019;Sillas Modelo 019;CAT05;MobiCasa;Sillones;$ 339.531,00;$ 431.518,87;Descontinuado
+PROD0020;Aires Acondicionados Modelo 020;CAT04;ClimaPro;Ventiladores;$ 405.246,00;$ 533.105,91;Activo
+PROD0021;Cocinas Modelo 021;CAT02;HomePlus;Microondas;$ 752.620,00;$ 1.034.454,24;Activo
+PROD0022;Textil Modelo 022;CAT03;DreamRest;Colchones;$ 141.606,00;$ 182.368,90;Activo
+PROD0023;Microondas Modelo 023;CAT02;Electra;Microondas;$ 865.908,00;$ 1.131.793,23;Activo
+PROD0024;Cables Modelo 024;CAT06;ToolBox;Cables;$ 27.282,00;$ 38.290,11;Activo
+PROD0025;Notebooks Modelo 025;CAT01;NovaTech;Smart TV;$ 708.479,00;$ 936.640,77;Activo
+PROD0026;Smart TV Modelo 026;CAT01;Vision;Audio;$ 610.791,00;$ 864.669,21;Activo
+PROD0027;Cocinas Modelo 027;CAT02;HomePlus;Microondas;$ 222.804,00;$ 282.814,16;Activo
+PROD0028;Racks Modelo 028;CAT05;UrbanHome;Mesas;$ 108.655,00;$ 166.770,72;Activo
+PROD0029;Notebooks Modelo 029;CAT01;PixelOne;Celulares;$ 481.869,00;$ 610.585,78;Activo
+PROD0030;Audio Modelo 030;CAT01;NovaTech;Smart TV;$ 310.009,00;$ 426.427,22;Activo
+PROD0031;Lavarropas Modelo 031;CAT02;KitchPro;Cocinas;$ 193.494,00;$ 289.082,80;Activo
+PROD0032;Ventiladores Modelo 032;CAT04;TempMax;Aires Acondicionados;$ 589.630,00;$ 929.464,88;Activo
+PROD0033;Cables Modelo 033;CAT06;Connect;Herramientas;$ 62.579,00;$ 98.885,65;Activo
+PROD0034;Calefactores Modelo 034;CAT04;TempMax;Ventiladores;$ 647.511,00;$ 888.062,66;Activo
+PROD0035;Fundas Modelo 035;CAT06;FixPro;Herramientas;$ 103.762,00;$ 149.950,36;Activo
+PROD0036;Notebooks Modelo 036;CAT01;Vision;Audio;$ 496.749,00;$ 629.825,78;Activo
+PROD0037;Celulares Modelo 037;CAT01;Vision;Audio;$ 399.021,00;$ 540.474,06;Activo
+PROD0038;Herramientas Modelo 038;CAT06;FixPro;Soportes;$ 32.241,00;$ 42.060,58;Activo
+PROD0039;Celulares Modelo 039;CAT01;Vision;Notebooks;$ 359.480,00;$ 543.846,82;Activo
+PROD0040;Cocinas Modelo 040;CAT02;KitchPro;Heladeras;$ 182.154,00;$ 254.996,04;Activo
+PROD0041;Microondas Modelo 041;CAT02;KitchPro;Cocinas;$ 201.728,00;$ 313.732,06;Activo
+PROD0042;Herramientas Modelo 042;CAT06;Connect;Cables;$ 99.733,00;$ 158.067,19;Activo
+PROD0043;Celulares Modelo 043;CAT01;Vision;Audio;$ 510.789,00;$ 695.857,45;Activo
+PROD0044;Colchones Modelo 044;CAT03;SoftHome;Organización;$ 138.314,00;$ 205.817,12;Activo
+PROD0045;Fundas Modelo 045;CAT06;Connect;Cables;$ 77.926,00;$ 110.093,71;Activo
+PROD0046;Notebooks Modelo 046;CAT01;SoundMax;Celulares;$ 689.522,00;$ 965.334,95;Descontinuado
+PROD0047;Textil Modelo 047;CAT03;Confort;Colchones;$ 310.546,00;$ 388.812,14;Activo
+PROD0048;Lavarropas Modelo 048;CAT02;Electra;Heladeras;$ 155.148,00;$ 234.023,28;Activo
+PROD0049;Smart TV Modelo 049;CAT01;PixelOne;Notebooks;$ 552.938,00;$ 794.517,28;Activo
+PROD0050;Mesas Modelo 050;CAT05;MobiCasa;Racks;$ 186.033,00;$ 290.259,77;Activo
+PROD0051;Audio Modelo 051;CAT01;NovaTech;Audio;$ 673.237,00;$ 916.809,61;Activo
+PROD0052;Smart TV Modelo 052;CAT01;PixelOne;Notebooks;$ 459.664,00;$ 669.650,45;Activo
+PROD0053;Organización Modelo 053;CAT03;Confort;Organización;$ 92.388,00;$ 145.109,00;Activo
+PROD0054;Soportes Modelo 054;CAT06;ToolBox;Cables;$ 70.807,00;$ 103.715,79;Activo
+PROD0055;Aires Acondicionados Modelo 055;CAT04;AirFlow;Aires Acondicionados;$ 645.134,00;$ 938.291,75;Activo
+PROD0056;Ventiladores Modelo 056;CAT04;AirFlow;Aires Acondicionados;$ 242.486,00;$ 358.885,64;Descontinuado
+PROD0057;Fundas Modelo 057;CAT06;Connect;Herramientas;$ 67.389,00;$ 88.472,31;Activo
+PROD0058;Lavarropas Modelo 058;CAT02;HomePlus;Lavarropas;$ 240.456,00;$ 336.999,46;Activo
+PROD0059;Fundas Modelo 059;CAT06;FixPro;Soportes;$ 57.499,00;$ 74.256,96;Activo
+PROD0060;Sillones Modelo 060;CAT05;UrbanHome;Racks;$ 140.684,00;$ 205.404,81;Activo
+PROD0061;Sillones Modelo 061;CAT05;DecoLine;Mesas;$ 107.318,00;$ 171.503,35;Descontinuado
+PROD0062;Herramientas Modelo 062;CAT06;FixPro;Cables;$ 78.996,00;$ 110.203,45;Descontinuado
+PROD0063;Herramientas Modelo 063;CAT06;ToolBox;Cables;$ 10.407,00;$ 16.424,50;Activo
+PROD0064;Smart TV Modelo 064;CAT01;Vision;Notebooks;$ 356.495,00;$ 539.548,51;Activo
+PROD0065;Aires Acondicionados Modelo 065;CAT04;ClimaPro;Calefactores;$ 571.581,00;$ 718.946,23;Activo
+PROD0066;Aires Acondicionados Modelo 066;CAT04;ClimaPro;Aires Acondicionados;$ 369.460,00;$ 483.289,00;Activo
+PROD0067;Cocinas Modelo 067;CAT02;FrostLine;Heladeras;$ 181.885,00;$ 255.856,50;Activo
+PROD0068;Smart TV Modelo 068;CAT01;PixelOne;Audio;$ 459.034,00;$ 715.738,94;Activo
+PROD0069;Mesas Modelo 069;CAT05;MobiCasa;Sillas;$ 54.166,00;$ 84.055,81;Activo
+PROD0070;Textil Modelo 070;CAT03;Confort;Colchones;$ 235.608,00;$ 351.218,49;Activo
+PROD0071;Smart TV Modelo 071;CAT01;Vision;Notebooks;$ 80.139,00;$ 113.115,14;Activo
+PROD0072;Cocinas Modelo 072;CAT02;HomePlus;Microondas;$ 656.772,00;$ 846.685,41;Activo
+PROD0073;Soportes Modelo 073;CAT06;FixPro;Cables;$ 99.591,00;$ 153.457,84;Activo
+PROD0074;Audio Modelo 074;CAT01;NovaTech;Smart TV;$ 388.845,00;$ 545.693,46;Activo
+PROD0075;Audio Modelo 075;CAT01;PixelOne;Audio;$ 414.909,00;$ 595.617,09;Activo
+PROD0076;Ventiladores Modelo 076;CAT04;AirFlow;Calefactores;$ 136.701,00;$ 207.607,11;Activo
+PROD0077;Heladeras Modelo 077;CAT02;FrostLine;Microondas;$ 219.048,00;$ 344.468,07;Activo
+PROD0078;Calefactores Modelo 078;CAT04;TempMax;Calefactores;$ 131.031,00;$ 193.148,85;Activo
+PROD0079;Celulares Modelo 079;CAT01;PixelOne;Smart TV;$ 315.566,00;$ 412.001,47;Activo
+PROD0080;Cables Modelo 080;CAT06;FixPro;Soportes;$ 28.849,00;$ 42.142,29;Activo
+PROD0081;Audio Modelo 081;CAT01;Vision;Notebooks;$ 479.012,00;$ 736.825,99;Activo
+PROD0082;Cables Modelo 082;CAT06;ToolBox;Soportes;$ 57.158,00;$ 87.341,90;Activo
+PROD0083;Smart TV Modelo 083;CAT01;SoundMax;Celulares;$ 592.139,00;$ 933.068,66;Activo
+PROD0084;Calefactores Modelo 084;CAT04;AirFlow;Calefactores;$ 531.420,00;$ 700.216,85;Activo
+PROD0085;Ventiladores Modelo 085;CAT04;ClimaPro;Ventiladores;$ 693.641,00;$ 1.108.754,10;Activo
+PROD0086;Notebooks Modelo 086;CAT01;Vision;Celulares;$ 387.998,00;$ 574.644,02;Activo
+PROD0087;Notebooks Modelo 087;CAT01;PixelOne;Smart TV;$ 689.150,00;$ 945.985,14;Activo
+PROD0088;Fundas Modelo 088;CAT06;FixPro;Fundas;$ 92.719,00;$ 137.285,59;Descontinuado
+PROD0089;Sillas Modelo 089;CAT05;UrbanHome;Racks;$ 544.449,00;$ 814.196,00;Activo
+PROD0090;Calefactores Modelo 090;CAT04;TempMax;Ventiladores;$ 485.187,00;$ 687.018,03;Activo
+PROD0091;Textil Modelo 091;CAT03;CasaNova;Textil;$ 399.240,00;$ 541.822,75;Activo
+PROD0092;Celulares Modelo 092;CAT01;PixelOne;Notebooks;$ 641.913,00;$ 822.601,51;Activo
+PROD0093;Smart TV Modelo 093;CAT01;NovaTech;Celulares;$ 682.026,00;$ 1.031.588,17;Activo
+PROD0094;Ventiladores Modelo 094;CAT04;ClimaPro;Ventiladores;$ 75.469,00;$ 103.580,86;Activo
+PROD0095;Cocinas Modelo 095;CAT02;FrostLine;Cocinas;$ 580.006,00;$ 922.472,30;Activo
+PROD0096;Sillones Modelo 096;CAT05;UrbanHome;Mesas;$ 409.389,00;$ 641.348,03;Activo
+PROD0097;Calefactores Modelo 097;CAT04;ClimaPro;Ventiladores;$ 230.062,00;$ 342.789,85;Activo
+PROD0098;Aires Acondicionados Modelo 098;CAT04;TempMax;Calefactores;$ 466.619,00;$ 726.310,84;Activo
+PROD0099;Audio Modelo 099;CAT01;PixelOne;Smart TV;$ 570.938,00;$ 719.565,90;Activo
+PROD0100;Celulares Modelo 100;CAT01;PixelOne;Audio;$ 250.220,00;$ 321.362,80;Activo
+PROD0101;Fundas Modelo 101;CAT06;ToolBox;Fundas;$ 62.974,00;$ 81.790,40;Descontinuado
+PROD0102;Notebooks Modelo 102;CAT01;Vision;Smart TV;$ 390.845,00;$ 602.938,51;Activo
+PROD0103;Herramientas Modelo 103;CAT06;Connect;Cables;$ 12.993,00;$ 19.863,65;Activo
+PROD0104;Sillas Modelo 104;CAT05;MobiCasa;Sillones;$ 473.027,00;$ 707.343,95;Activo
+PROD0105;Aires Acondicionados Modelo 105;CAT04;TempMax;Ventiladores;$ 296.734,00;$ 433.804,34;Activo
+PROD0106;Audio Modelo 106;CAT01;SoundMax;Notebooks;$ 226.030,00;$ 337.424,22;Descontinuado
+PROD0107;Celulares Modelo 107;CAT01;SoundMax;Smart TV;$ 257.871,00;$ 367.642,71;Activo
+PROD0108;Calefactores Modelo 108;CAT04;TempMax;Aires Acondicionados;$ 564.006,00;$ 834.743,10;Activo
+PROD0109;Audio Modelo 109;CAT01;PixelOne;Audio;$ 577.626,00;$ 743.917,15;Descontinuado
+PROD0110;Cocinas Modelo 110;CAT02;Electra;Lavarropas;$ 410.845,00;$ 531.317,71;Activo
+PROD0111;Lavarropas Modelo 111;CAT02;HomePlus;Heladeras;$ 154.601,00;$ 219.542,29;Activo
+PROD0112;Organización Modelo 112;CAT03;DreamRest;Almohadas;$ 40.686,00;$ 55.358,82;Activo
+PROD0113;Smart TV Modelo 113;CAT01;Vision;Celulares;$ 513.076,00;$ 711.509,69;Activo
+PROD0114;Mesas Modelo 114;CAT05;UrbanHome;Racks;$ 519.674,00;$ 713.063,00;Activo
+PROD0115;Soportes Modelo 115;CAT06;ToolBox;Herramientas;$ 89.196,00;$ 113.207,37;Activo
+PROD0116;Almohadas Modelo 116;CAT03;CasaNova;Textil;$ 152.602,00;$ 194.504,56;Activo
+PROD0117;Cables Modelo 117;CAT06;FixPro;Cables;$ 13.971,00;$ 18.227,20;Descontinuado
+PROD0118;Fundas Modelo 118;CAT06;ToolBox;Herramientas;$ 65.969,00;$ 98.598,45;Activo
+PROD0119;Sillas Modelo 119;CAT05;UrbanHome;Sillas;$ 78.568,00;$ 125.577,31;Descontinuado
+PROD0120;Soportes Modelo 120;CAT06;FixPro;Herramientas;$ 35.319,00;$ 47.997,76;Activo
+PROD0121;Calefactores Modelo 121;CAT04;ClimaPro;Calefactores;$ 562.220,00;$ 753.415,32;Activo
+PROD0122;Celulares Modelo 122;CAT01;NovaTech;Notebooks;$ 469.014,00;$ 613.624,74;Activo
+PROD0123;Sillones Modelo 123;CAT05;DecoLine;Sillas;$ 213.165,00;$ 275.891,41;Activo
+PROD0124;Organización Modelo 124;CAT03;CasaNova;Textil;$ 123.837,00;$ 162.227,57;Activo
+PROD0125;Cocinas Modelo 125;CAT02;Electra;Cocinas;$ 314.817,00;$ 432.018,68;Activo
+PROD0126;Cables Modelo 126;CAT06;ToolBox;Fundas;$ 53.626,00;$ 77.753,73;Activo
+PROD0127;Herramientas Modelo 127;CAT06;FixPro;Cables;$ 11.836,00;$ 15.556,79;Activo
+PROD0128;Calefactores Modelo 128;CAT04;ClimaPro;Ventiladores;$ 430.197,00;$ 563.278,37;Activo
+PROD0129;Ventiladores Modelo 129;CAT04;AirFlow;Aires Acondicionados;$ 363.302,00;$ 516.817,14;Activo
+PROD0130;Cocinas Modelo 130;CAT02;KitchPro;Heladeras;$ 701.283,00;$ 1.045.785,66;Activo
+PROD0131;Aires Acondicionados Modelo 131;CAT04;AirFlow;Calefactores;$ 440.483,00;$ 585.916,54;Activo
+PROD0132;Microondas Modelo 132;CAT02;Electra;Microondas;$ 438.168,00;$ 558.143,59;Descontinuado
+PROD0133;Celulares Modelo 133;CAT01;Vision;Audio;$ 579.507,00;$ 770.638,98;Activo
+PROD0134;Colchones Modelo 134;CAT03;SoftHome;Almohadas;$ 349.135,00;$ 499.973,90;Activo
+PROD0135;Fundas Modelo 135;CAT06;ToolBox;Fundas;$ 30.657,00;$ 40.370,26;Activo
+PROD0136;Lavarropas Modelo 136;CAT02;HomePlus;Cocinas;$ 246.220,00;$ 376.117,21;Activo
+PROD0137;Smart TV Modelo 137;CAT01;NovaTech;Smart TV;$ 714.997,00;$ 1.132.274,23;Activo
+PROD0138;Audio Modelo 138;CAT01;PixelOne;Audio;$ 203.575,00;$ 321.802,99;Activo
+PROD0139;Sillas Modelo 139;CAT05;UrbanHome;Sillas;$ 539.983,00;$ 841.882,00;Activo
+PROD0140;Organización Modelo 140;CAT03;Confort;Colchones;$ 340.381,00;$ 500.828,30;Activo
+PROD0141;Calefactores Modelo 141;CAT04;AirFlow;Aires Acondicionados;$ 104.292,00;$ 136.264,55;Activo
+PROD0142;Herramientas Modelo 142;CAT06;Connect;Fundas;$ 60.200,00;$ 90.755,92;Activo
+PROD0143;Herramientas Modelo 143;CAT06;ToolBox;Fundas;$ 35.896,00;$ 53.135,16;Descontinuado
+PROD0144;Fundas Modelo 144;CAT06;FixPro;Fundas;$ 52.427,00;$ 76.251,41;Activo
+PROD0145;Smart TV Modelo 145;CAT01;SoundMax;Audio;$ 608.263,00;$ 892.319,67;Activo
+PROD0146;Aires Acondicionados Modelo 146;CAT04;AirFlow;Aires Acondicionados;$ 54.157,00;$ 75.723,63;Activo
+PROD0147;Cocinas Modelo 147;CAT02;HomePlus;Heladeras;$ 675.974,00;$ 1.080.111,96;Activo
+PROD0148;Colchones Modelo 148;CAT03;DreamRest;Almohadas;$ 54.971,00;$ 72.305,79;Activo
+PROD0149;Textil Modelo 149;CAT03;SoftHome;Textil;$ 97.622,00;$ 131.434,42;Activo
+PROD0150;Celulares Modelo 150;CAT01;PixelOne;Notebooks;$ 724.414,00;$ 1.034.182,75;Activo
+PROD0151;Fundas Modelo 151;CAT06;Connect;Soportes;$ 107.564,00;$ 141.868,95;Activo
+PROD0152;Smart TV Modelo 152;CAT01;SoundMax;Notebooks;$ 677.588,00;$ 1.065.763,04;Activo
+PROD0153;Fundas Modelo 153;CAT06;FixPro;Soportes;$ 78.981,00;$ 125.007,10;Activo
+PROD0154;Celulares Modelo 154;CAT01;PixelOne;Smart TV;$ 497.066,00;$ 710.261,13;Activo
+PROD0155;Sillas Modelo 155;CAT05;UrbanHome;Mesas;$ 199.197,00;$ 305.885,55;Activo
+PROD0156;Microondas Modelo 156;CAT02;FrostLine;Cocinas;$ 287.610,00;$ 383.874,34;Activo
+PROD0157;Smart TV Modelo 157;CAT01;NovaTech;Audio;$ 258.927,00;$ 396.077,78;Activo
+PROD0158;Notebooks Modelo 158;CAT01;PixelOne;Smart TV;$ 532.236,00;$ 749.407,43;Activo
+PROD0159;Notebooks Modelo 159;CAT01;PixelOne;Smart TV;$ 535.252,00;$ 784.328,66;Activo
+PROD0160;Colchones Modelo 160;CAT03;SoftHome;Colchones;$ 265.144,00;$ 370.553,42;Activo
+PROD0161;Colchones Modelo 161;CAT03;CasaNova;Organización;$ 305.298,00;$ 485.253,49;Activo
+PROD0162;Herramientas Modelo 162;CAT06;ToolBox;Soportes;$ 68.036,00;$ 99.626,84;Activo
+PROD0163;Herramientas Modelo 163;CAT06;Connect;Cables;$ 21.953,00;$ 30.304,37;Activo
+PROD0164;Smart TV Modelo 164;CAT01;PixelOne;Notebooks;$ 571.657,00;$ 827.616,00;Activo
+PROD0165;Microondas Modelo 165;CAT02;FrostLine;Lavarropas;$ 885.394,00;$ 1.347.478,12;Activo
+PROD0166;Almohadas Modelo 166;CAT03;SoftHome;Textil;$ 157.280,00;$ 242.102,81;Activo
+PROD0167;Sillones Modelo 167;CAT05;DecoLine;Mesas;$ 380.551,00;$ 518.368,88;Activo
+PROD0168;Cocinas Modelo 168;CAT02;KitchPro;Microondas;$ 143.715,00;$ 200.471,97;Activo
+PROD0169;Soportes Modelo 169;CAT06;FixPro;Cables;$ 75.268,00;$ 103.118,33;Activo
+PROD0170;Colchones Modelo 170;CAT03;SoftHome;Colchones;$ 186.768,00;$ 264.374,36;Activo
+PROD0171;Sillas Modelo 171;CAT05;DecoLine;Sillas;$ 453.851,00;$ 608.291,12;Activo
+PROD0172;Cables Modelo 172;CAT06;ToolBox;Fundas;$ 10.241,00;$ 15.716,45;Activo
+PROD0173;Smart TV Modelo 173;CAT01;Vision;Smart TV;$ 246.117,00;$ 361.202,61;Activo
+PROD0174;Lavarropas Modelo 174;CAT02;FrostLine;Microondas;$ 285.272,00;$ 373.442,63;Activo
+PROD0175;Calefactores Modelo 175;CAT04;AirFlow;Ventiladores;$ 518.531,00;$ 649.142,65;Activo
+PROD0176;Sillas Modelo 176;CAT05;UrbanHome;Sillones;$ 110.906,00;$ 148.158,47;Activo
+PROD0177;Audio Modelo 177;CAT01;SoundMax;Audio;$ 444.666,00;$ 673.386,35;Activo
+PROD0178;Sillones Modelo 178;CAT05;MobiCasa;Sillones;$ 339.334,00;$ 454.989,40;Activo
+PROD0179;Celulares Modelo 179;CAT01;PixelOne;Audio;$ 668.181,00;$ 1.035.537,75;Activo
+PROD0180;Lavarropas Modelo 180;CAT02;HomePlus;Heladeras;$ 869.947,00;$ 1.219.502,86;Activo
