@@ -75,7 +75,15 @@ Incluye:
 
 🔗 Ver proyecto: /segmentacion-comercial-clientes
 
+---
 
+### 🗄️ Análisis Comercial con SQL – KPIs y Consultas
+Proyecto completo de SQL con análisis comercial, segmentación de clientes, productos, vendedores y ventas.  
+Incluye KPIs, márgenes, costos promedio y comparativas por año, sucursal y canal de venta.  
+📁 Datos reales en formato CSV y consultas organizadas por tema.  
+🎨 Portada estilo dashboard corporativo cálido beige.
+
+🔗 [Ver proyecto completo](./sql-analisis-comercial)
 
 
 ## 🛠️ Tecnologías y herramientas
