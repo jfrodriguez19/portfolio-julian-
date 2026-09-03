@@ -1,5 +1,6 @@
 # 🗄️ **Análisis Comercial con SQL – Modelado, KPIs y Consultas**
 
+
 🎯 **Objetivo del proyecto**  
 Construir un análisis comercial completo utilizando SQL, aplicando consultas de segmentación, KPIs, métricas de ventas, análisis de productos, clientes, vendedores y sucursales.
 
@@ -91,6 +92,3 @@ Relación tipo **modelo estrella** para análisis comercial.
 - Ordenamientos y filtros  
 - Joins (si se agregan más consultas)  
 
----
-
-## 📁 **Estructura del repositorio**
